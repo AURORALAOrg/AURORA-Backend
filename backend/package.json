@@ -9,7 +9,8 @@
     "dev": "npx nodemon",
     "start:prod": "node build/src/server.js",
     "build": "rimraf ./build && tsc",
-    "start": "npm run build && node build/src/server.js"
+    "start": "npm run build && node build/src/server.js",
+    "import:questions": "ts-node --project tsconfig.json scripts/importQuestions.ts"
   },
   "keywords": [],
   "author": "",
@@ -18,11 +19,11 @@
   "dependencies": {
     "@types/compression": "^1.7.5",
     "axios": "^1.7.7",
-    "bcrypt": "^5.1.1",
+    "bcrypt": "^6.0.0",
     "compression": "^1.8.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.5.0",
     "ejs": "^3.1.9",
     "ethers": "^6.13.5",
     "express": "^4.18.2",
@@ -41,7 +42,7 @@
   },
   "devDependencies": {
     "@faker-js/faker": "^9.5.0",
-    "@prisma/client": "^6.5.0",
+    "@prisma/client": "^6.8.2",
     "@types/bcrypt": "^5.0.2",
     "@types/cookie-parser": "^1.4.6",
     "@types/cors": "^2.8.17",
@@ -52,7 +53,7 @@
     "@types/jsonwebtoken": "^9.0.5",
     "@types/lodash": "^4.14.202",
     "@types/morgan": "^1.9.9",
-    "@types/node": "^20.10.4",
+    "@types/node": "^20.17.55",
     "@types/nodemailer": "^6.4.16",
     "@types/pg": "^8.11.11",
     "@types/supertest": "^6.0.2",
@@ -65,7 +66,7 @@
     "prisma": "^6.5.0",
     "supertest": "^7.0.0",
     "ts-jest": "^29.2.6",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.7.3"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }
