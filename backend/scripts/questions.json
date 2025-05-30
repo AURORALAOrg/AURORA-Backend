@@ -1,0 +1,39 @@
+[
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    "metadata": {
+      "type": "multiple_choice",
+      "level": "A1",
+      "topic": "geography"
+    },
+    "gameMetadata": {}
+  },
+  {
+    "content": {
+      "question": "The capital of France is _____.",
+      "answer": "Paris"
+    },
+    "metadata": {
+      "type": "fill_in_blanks",
+      "level": "A1",
+      "topic": "geography"
+    },
+    "gameMetadata": {}
+  },
+  {
+    "content": {
+      "question": "Arrange the words: 'is / Paris / capital / the / of / France'",
+      "answer": "Paris is the capital of France"
+    },
+    "metadata": {
+      "type": "sentence_builder",
+      "level": "A2",
+      "topic": "grammar"
+    },
+    "gameMetadata": {}
+  }
+]
