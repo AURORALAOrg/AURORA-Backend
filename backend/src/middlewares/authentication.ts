@@ -3,8 +3,12 @@ import { Request, Response, NextFunction } from "express"
 import { UnauthorizedError } from "../core/api/ApiError"
 import UserService from "../services/user.service"
 
+interface AuthenticatedRequest extends Request {
+  user?: any;
+}
+
 export const isAuthorized = () => {
-  return async (req: Request, res: Response, next: NextFunction) => {
+  return async (req: AuthenticatedRequest, res: Response, next: NextFunction) => {
     try {
       const authHeader = req.headers.authorization
       if (!authHeader || !authHeader.startsWith("Bearer ")) {
@@ -21,6 +25,7 @@ export const isAuthorized = () => {
       const user = await UserService.readUserById(decoded.payload.id)
       if (!user) return next(new UnauthorizedError("Unauthorized - User not found"))
 
+      req.user = user
       res.locals.account = user
       next()
     } catch (err) {

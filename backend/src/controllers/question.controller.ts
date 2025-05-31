@@ -104,15 +104,16 @@ class QuestionController {
 
     public static async getAllQuestions(req: Request, res: Response) {
         try {
-            const { type, category, subCategory, englishLevel, difficulty } = req.query;
+            const queryParams = req.query;
+            const filterOptions: any = {};
 
-            const questions = await QuestionService.getQuestions({
-                type: type as any,
-                category: category as string,
-                subCategory: subCategory as string,
-                englishLevel: englishLevel as string,
-                difficulty: difficulty as string
-            });
+            if (queryParams.type) filterOptions.type = queryParams.type;
+            if (queryParams.category) filterOptions.category = queryParams.category;
+            if (queryParams.subCategory) filterOptions.subCategory = queryParams.subCategory;
+            if (queryParams.englishLevel) filterOptions.englishLevel = queryParams.englishLevel;
+            if (queryParams.difficulty) filterOptions.difficulty = queryParams.difficulty;
+
+            const questions = await QuestionService.getQuestions(filterOptions);
 
             res.status(200).json({
                 status: 'success',

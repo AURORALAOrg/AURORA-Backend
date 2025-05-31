@@ -7,7 +7,7 @@ const commonMetadataSchema = Joi.object({
     category: Joi.string().required(),
     subCategory: Joi.string().required(),
     tags: Joi.array().items(Joi.string()).required(),
-    type: Joi.string().valid('multiple-choice', 'sentence-builder', 'fill-in-blanks').required()
+    type: Joi.string().valid('multiple-choice', 'sentence-builder', 'fill-in-blanks', 'idiom-challenge').required()
 });
 
 // Common game metadata schema
@@ -40,6 +40,16 @@ const fillInTheBlanksContentSchema = Joi.object({
     explanation: Joi.string().required()
 });
 
+// Idiom challenge content schema
+const idiomChallengeContentSchema = Joi.object({
+    idiom: Joi.string().required(),
+    sentence: Joi.string().required(),
+    options: Joi.array().items(Joi.string()).min(2).required(),
+    correct: Joi.number().required(),
+    explanation: Joi.string().required(),
+    tips: Joi.array().items(Joi.string()).required()
+});
+
 // Combined content schema that validates based on type
 const contentSchema = Joi.object().when('metadata.type', {
     is: 'multiple-choice',
@@ -47,7 +57,11 @@ const contentSchema = Joi.object().when('metadata.type', {
     otherwise: Joi.object().when('metadata.type', {
         is: 'sentence-builder',
         then: sentenceBuilderContentSchema,
-        otherwise: fillInTheBlanksContentSchema
+        otherwise: Joi.object().when('metadata.type', {
+            is: 'fill-in-blanks',
+            then: fillInTheBlanksContentSchema,
+            otherwise: idiomChallengeContentSchema
+        })
     })
 });
 
