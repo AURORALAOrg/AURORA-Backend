@@ -1,0 +1,44 @@
+[
+  {
+    "content": {
+      "sentence": "The sun ___ brightly in the sky.",
+      "correctAnswer": "shines",
+      "hint": "Think about what the sun does every day",
+      "explanation": "The present simple tense is used for general truths and regular actions."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "present simple",
+      "tags": ["grammar", "present simple", "vocabulary"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "sentence": "By the time we arrived, the movie ___ already started.",
+      "correctAnswer": "had",
+      "hint": "This happened before another past event",
+      "explanation": "The past perfect tense is used to show that one action happened before another in the past."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "past perfect",
+      "tags": ["grammar", "past perfect", "tenses"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.2
+    }
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "content": {
+      "idiom": "Break a leg",
+      "sentence": "Before the performance, the director told the actors to break a leg.",
+      "options": ["Good luck", "Get injured", "Take a break", "Start running"],
+      "correct": 0,
+      "explanation": "The idiom 'break a leg' is commonly used in theater to wish someone good luck before a performance.",
+      "tips": ["This is a theatrical expression", "It's used to wish good luck", "It's considered bad luck to say 'good luck' in theater"]
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "idioms",
+      "subCategory": "theater",
+      "tags": ["idioms", "theater", "good luck"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "idiom": "Piece of cake",
+      "sentence": "The math test was a piece of cake for Sarah.",
+      "options": ["Very difficult", "Very easy", "Very sweet", "Very small"],
+      "correct": 1,
+      "explanation": "The idiom 'piece of cake' means something is very easy to do.",
+      "tips": ["Think about how easy it is to eat a piece of cake", "It's a positive expression", "It's often used to describe tasks or challenges"]
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "food",
+      "tags": ["idioms", "food", "easy"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.2
+    }
+  }
+]

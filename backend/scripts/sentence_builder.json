@@ -1,0 +1,42 @@
+[
+  {
+    "content": {
+      "sentence": "She enjoys reading books in the quiet library",
+      "words": ["quiet", "She", "books", "reading", "library", "enjoys", "in", "the"],
+      "explanation": "This sentence demonstrates present simple tense and basic vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "present simple",
+      "tags": ["grammar", "present simple", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 60,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The children were playing happily in the park yesterday",
+      "words": ["happily", "The", "children", "playing", "park", "were", "in", "yesterday", "the"],
+      "explanation": "This sentence demonstrates past continuous tense and adverbs of manner."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "past continuous",
+      "tags": ["grammar", "past continuous", "adverbs"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  }
+]
