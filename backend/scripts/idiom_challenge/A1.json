@@ -1,0 +1,2527 @@
+[
+  {
+    "content": {
+      "idiom": "Go the extra mile",
+      "sentence": "Sarah always goes the extra mile to help her students understand difficult concepts.",
+      "options": [
+        "To make a special effort or do more than what is expected",
+        "To travel a long distance",
+        "To run faster than others",
+        "To take a different route"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Go the extra mile' means to make a special effort or do more than what is expected or required. It comes from the Bible where Jesus taught that if someone forces you to go one mile, you should go two miles.",
+      "tips": [
+        "This idiom is often used in professional settings",
+        "It's a positive expression showing dedication",
+        "Commonly used in job interviews and performance reviews"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Apple of my eye",
+      "sentence": "My little daughter is the apple of my eye - I love her more than anything in the world.",
+      "options": [
+        "Something that is very expensive",
+        "A fruit that someone likes",
+        "Someone or something that is very precious and loved",
+        "A type of eye disease"
+      ],
+      "correct": 2,
+      "explanation": "The idiom 'Apple of my eye' refers to someone or something that is very precious and loved. It originally comes from the Old English phrase 'æppel þæs eages' which referred to the pupil of the eye, considered the most precious part.",
+      "tips": ["Often used to describe loved ones", "Common in romantic and family contexts", "Shows deep affection and care"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Blessing in disguise",
+      "sentence": "Losing my job was a blessing in disguise because it led me to find a better position.",
+      "options": ["A religious ceremony", "A hidden gift", "Something that seems bad but turns out to be good", "A secret prayer"],
+      "correct": 2,
+      "explanation": "The idiom 'Blessing in disguise' means something that appears to be bad or unlucky at first, but turns out to be good in the end. It suggests that sometimes what seems like a misfortune can actually be beneficial.",
+      "tips": ["Used to find positive aspects in negative situations", "Common in stories of personal growth", "Shows optimism and resilience"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Call it a day",
+      "sentence": "We've been working on this project for hours. Let's call it a day and continue tomorrow.",
+      "options": ["To make a phone call", "To schedule a meeting", "To stop working on something", "To celebrate a special day"],
+      "correct": 2,
+      "explanation": "The idiom 'Call it a day' means to stop working on something, usually because you've done enough work for that day. It's often used when you decide to end an activity or work session.",
+      "tips": ["Common in workplace conversations", "Used when stopping any activity, not just work", "Shows a decision to end something"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Cut corners",
+      "sentence": "The company cut corners on safety measures, which led to several accidents.",
+      "options": [
+        "To do something in the easiest or cheapest way, often sacrificing quality",
+        "To make a shape smaller",
+        "To take a shortcut while walking",
+        "To remove the edges of paper"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Cut corners' means to do something in the easiest or cheapest way, often sacrificing quality or safety. It suggests taking shortcuts that might lead to problems later.",
+      "tips": ["Usually has a negative connotation", "Common in discussions about quality and safety", "Often used in business contexts"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Hit the nail on the head",
+      "sentence": "You hit the nail on the head when you said we need better communication in our team.",
+      "options": ["To do carpentry work", "To make a mistake", "To be exactly right about something", "To cause physical pain"],
+      "correct": 2,
+      "explanation": "The idiom 'Hit the nail on the head' means to be exactly right about something or to describe a situation perfectly. It comes from carpentry, where hitting a nail directly on its head is the correct way to drive it in.",
+      "tips": ["Used to express agreement", "Common in discussions and debates", "Shows precise understanding"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Let sleeping dogs lie",
+      "sentence": "I know there's an issue with the contract, but let's let sleeping dogs lie for now.",
+      "options": ["To take care of pets", "To avoid disturbing a situation that might cause trouble", "To train animals", "To help someone sleep"],
+      "correct": 1,
+      "explanation": "The idiom 'Let sleeping dogs lie' means to avoid disturbing a situation that might cause trouble or problems. It suggests that it's better to leave things as they are if they're not causing any problems.",
+      "tips": ["Used to advise against unnecessary action", "Common in conflict situations", "Shows wisdom in choosing battles"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Miss the boat",
+      "sentence": "I missed the boat on buying that house - someone else made an offer first.",
+      "options": ["To be late for travel", "To miss an opportunity", "To fall into water", "To skip a journey"],
+      "correct": 1,
+      "explanation": "The idiom 'Miss the boat' means to miss an opportunity or to be too late to take advantage of something. It suggests that you've missed your chance to do something important.",
+      "tips": ["Often used in business contexts", "Common in discussions about opportunities", "Shows regret about missed chances"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "No pain, no gain",
+      "sentence": "I'm exhausted from training, but no pain, no gain - I need to keep pushing myself.",
+      "options": ["A medical condition", "A type of exercise", "You must work hard to achieve something", "A way to avoid suffering"],
+      "correct": 2,
+      "explanation": "The idiom 'No pain, no gain' means that you must work hard and endure difficulties to achieve something worthwhile. It's often used in sports and fitness contexts, but applies to any challenging situation.",
+      "tips": ["Common in sports and fitness", "Used to encourage perseverance", "Shows the value of hard work"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Pull someone's leg",
+      "sentence": "I'm just pulling your leg - of course I didn't forget your birthday!",
+      "options": ["To help someone walk", "To play a joke on someone", "To cause physical harm", "To give medical treatment"],
+      "correct": 1,
+      "explanation": "The idiom 'Pull someone's leg' means to play a joke on someone or to tease them in a friendly way. It's used when you're not being serious and want to make someone believe something that isn't true.",
+      "tips": ["Used in friendly, informal situations", "Common in social gatherings", "Shows playful humor"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Rain or shine",
+      "sentence": "The concert will go on rain or shine - we have a covered stage.",
+      "options": ["Weather forecast", "A type of storm", "Regardless of the circumstances", "A weather condition"],
+      "correct": 2,
+      "explanation": "The idiom 'Rain or shine' means regardless of the circumstances or conditions. It's often used to indicate that something will happen no matter what, even if the weather is bad.",
+      "tips": ["Common in event planning", "Shows commitment to a plan", "Used to express reliability"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Sit on the fence",
+      "sentence": "Don't sit on the fence - you need to make a decision about which project to support.",
+      "options": ["To rest outside", "To be undecided or neutral", "To watch a game", "To take a break"],
+      "correct": 1,
+      "explanation": "The idiom 'Sit on the fence' means to be undecided or neutral about an issue, refusing to take a side. It suggests that someone is avoiding making a decision or taking a position.",
+      "tips": ["Common in discussions and debates", "Often used to encourage decision-making", "Shows hesitation or neutrality"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Take it easy",
+      "sentence": "You've been working too hard. Why don't you take it easy this weekend?",
+      "options": ["To move slowly", "To relax and not worry", "To carry something lightly", "To walk carefully"],
+      "correct": 1,
+      "explanation": "The idiom 'Take it easy' means to relax and not worry about things. It's often used as advice to someone who is working too hard or is stressed out.",
+      "tips": ["Common in casual conversations", "Used to give friendly advice", "Shows concern for someone's well-being"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Up in the air",
+      "sentence": "The date of the meeting is still up in the air - we need to check everyone's availability.",
+      "options": ["To fly high", "To be uncertain or undecided", "To be in an airplane", "To throw something"],
+      "correct": 1,
+      "explanation": "The idiom 'Up in the air' means that something is uncertain or undecided. It's often used when plans or decisions are not yet finalized.",
+      "tips": ["Common in planning discussions", "Used to express uncertainty", "Shows that something is not yet decided"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Whole nine yards",
+      "sentence": "She went the whole nine yards for her wedding - nothing was left to chance.",
+      "options": ["A measurement of distance", "To do everything possible", "To buy a lot of fabric", "To run a long distance"],
+      "correct": 1,
+      "explanation": "The idiom 'Whole nine yards' means to do everything possible or to go all the way with something. It suggests doing something completely or thoroughly, without holding back.",
+      "tips": ["Common in planning and preparation", "Used to express thoroughness", "Shows complete commitment"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Zip your lip",
+      "sentence": "Zip your lip! I don't want to hear any more complaints about the new policy.",
+      "options": ["To close a bag", "To be quiet or stop talking", "To wear a mask", "To protect your mouth"],
+      "correct": 1,
+      "explanation": "The idiom 'Zip your lip' means to be quiet or stop talking. It's an informal way to tell someone to stop speaking, often used when someone is saying something inappropriate or unwanted.",
+      "tips": ["Informal and direct expression", "Common in casual conversations", "Can be considered slightly rude"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "A dime a dozen",
+      "sentence": "Those cheap souvenirs are a dime a dozen at the tourist shops.",
+      "options": ["Very expensive items", "Common and not valuable", "Items that cost ten cents", "Rare collectibles"],
+      "correct": 1,
+      "explanation": "The idiom 'A dime a dozen' means something is very common and not valuable. It suggests that something is so plentiful that it's not special or worth much.",
+      "tips": ["Common in discussions about value", "Used to express commonality", "Shows something is not unique"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Bite off more than you can chew",
+      "sentence": "I bit off more than I could chew by taking on three projects at once.",
+      "options": ["To take on more than you can handle", "To eat too much food", "To have dental problems", "To be hungry"],
+      "correct": 0,
+      "explanation": "The idiom 'Bite off more than you can chew' means to take on more responsibilities or tasks than you can handle. It suggests that someone has committed to more than they can realistically accomplish.",
+      "tips": ["Common in work and project contexts", "Used to warn about overcommitment", "Shows the importance of realistic planning"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Cry wolf",
+      "sentence": "He's cried wolf so many times about being sick that no one believes him anymore.",
+      "options": ["To be sad", "To make a lot of noise", "To raise a false alarm", "To be afraid"],
+      "correct": 2,
+      "explanation": "The idiom 'Cry wolf' means to raise a false alarm or to claim something is happening when it isn't. It comes from the fable about a boy who repeatedly cried 'wolf' when there was no wolf, so when a real wolf came, no one believed him.",
+      "tips": ["Common in warning situations", "Used to describe false alarms", "Shows the consequences of dishonesty"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Down to earth",
+      "sentence": "Despite her success, she remains down to earth and treats everyone with respect.",
+      "options": ["Practical and realistic", "To fall down", "To be tired", "To be sad"],
+      "correct": 0,
+      "explanation": "The idiom 'Down to earth' means to be practical and realistic, not pretentious or arrogant. It describes someone who is humble and easy to talk to, regardless of their status or success.",
+      "tips": ["Common in describing people's personalities", "Used as a compliment", "Shows appreciation for humility"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Elbow grease",
+      "sentence": "This old furniture needs some elbow grease to make it look new again.",
+      "options": ["A cleaning product", "Physical effort and hard work", "A type of oil", "A tool for cleaning"],
+      "correct": 1,
+      "explanation": "The idiom 'Elbow grease' means physical effort and hard work. It's often used when talking about cleaning or manual labor that requires a lot of effort.",
+      "tips": ["Common in cleaning and maintenance contexts", "Used to describe physical work", "Shows the value of hard work"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Face the music",
+      "sentence": "You made a mistake, and now you need to face the music and accept the consequences.",
+      "options": ["To go to a concert", "To accept the consequences of your actions", "To listen to music", "To be happy"],
+      "correct": 1,
+      "explanation": "The idiom 'Face the music' means to accept the consequences of your actions, especially when they are unpleasant. It suggests that you need to deal with the results of your decisions, whether good or bad.",
+      "tips": ["Common in situations requiring responsibility", "Used to encourage accountability", "Shows the importance of facing consequences"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+
+  {
+    "content": {
+      "idiom": "Green thumb",
+      "sentence": "My grandmother has a green thumb - all her plants are always healthy and beautiful.",
+      "options": [
+        "Someone who is good at gardening",
+        "Someone who likes the color green",
+        "Someone who has dirty hands",
+        "Someone who is good at growing plants"
+      ],
+      "correct": 3,
+      "explanation": "The idiom 'Green thumb' refers to someone who has a natural talent for growing plants and making them thrive.",
+      "tips": [
+        "This idiom is often used to compliment gardeners",
+        "It's a positive expression about someone's gardening skills",
+        "You can use it to describe both amateur and professional gardeners"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Hit the road",
+      "sentence": "It's getting late, we should hit the road before it gets dark.",
+      "options": ["To start a journey or leave", "To damage a road", "To play a game on the road", "To fix a road"],
+      "correct": 0,
+      "explanation": "The idiom 'Hit the road' means to start a journey or to leave a place.",
+      "tips": [
+        "This is a casual way to say 'let's go' or 'let's leave'",
+        "It's commonly used when saying goodbye",
+        "You can use it for both short and long journeys"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "In a nutshell",
+      "sentence": "In a nutshell, the movie was about a family's journey to find happiness.",
+      "options": ["To put something in a small container", "To eat nuts", "To summarize something briefly", "To hide something"],
+      "correct": 2,
+      "explanation": "The idiom 'In a nutshell' means to explain something in a brief and concise way.",
+      "tips": [
+        "Use this when you want to give a short summary",
+        "It's often used at the beginning of an explanation",
+        "It's a formal way to say 'in short' or 'briefly'"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Jump the gun",
+      "sentence": "Don't jump the gun - wait for the official announcement before making any decisions.",
+      "options": ["To act too quickly without thinking", "To play a sport", "To run very fast", "To start a race"],
+      "correct": 0,
+      "explanation": "The idiom 'Jump the gun' means to act too quickly or too soon, without proper preparation or consideration.",
+      "tips": [
+        "This idiom comes from track and field sports",
+        "It's often used as a warning to be patient",
+        "It suggests that someone is being hasty or premature"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Keep an eye on",
+      "sentence": "Can you keep an eye on my bag while I go to the bathroom?",
+      "options": ["To look at something with one eye", "To watch or monitor something carefully", "To close your eyes", "To wear glasses"],
+      "correct": 1,
+      "explanation": "The idiom 'Keep an eye on' means to watch or monitor something or someone carefully.",
+      "tips": [
+        "This is a common way to ask someone to watch your belongings",
+        "It's often used when asking for a favor",
+        "You can use it for both people and objects"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Last straw",
+      "sentence": "When he was late for the third time this week, it was the last straw and I had to fire him.",
+      "options": ["The final piece of hay", "The last drink", "The final problem that makes someone lose patience", "The last item in a list"],
+      "correct": 2,
+      "explanation": "The idiom 'Last straw' refers to the final problem or incident that makes someone lose their patience or take action.",
+      "tips": [
+        "This idiom comes from the saying 'the straw that broke the camel's back'",
+        "It's used when someone has reached their limit",
+        "It's often used in negative situations"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Make ends meet",
+      "sentence": "With the rising cost of living, it's getting harder to make ends meet.",
+      "options": ["To have enough money to pay for basic needs", "To tie two pieces of string together", "To finish a project", "To meet new people"],
+      "correct": 0,
+      "explanation": "The idiom 'Make ends meet' means to have enough money to pay for basic necessities and expenses.",
+      "tips": [
+        "This idiom is often used when talking about financial difficulties",
+        "It's commonly used in discussions about budgeting",
+        "It suggests living within one's means"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Nest egg",
+      "sentence": "She's been saving money for years to build up a nest egg for her retirement.",
+      "options": ["A special type of egg", "A bird's home", "Money saved for the future", "A cooking ingredient"],
+      "correct": 2,
+      "explanation": "The idiom 'Nest egg' refers to money that has been saved or invested for future use, especially for retirement.",
+      "tips": ["This idiom is often used in financial planning", "It suggests long-term savings", "It's commonly associated with retirement planning"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "On pins and needles",
+      "sentence": "I was on pins and needles waiting for the exam results.",
+      "options": ["To be in physical pain", "To be sewing something", "To be very anxious or nervous", "To be sitting uncomfortably"],
+      "correct": 2,
+      "explanation": "The idiom 'On pins and needles' means to be very anxious, nervous, or excited about something.",
+      "tips": [
+        "This idiom describes a state of nervous anticipation",
+        "It's often used when waiting for important news",
+        "It suggests physical discomfort from anxiety"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Put all your eggs in one basket",
+      "sentence": "Don't put all your eggs in one basket - you should apply to multiple universities.",
+      "options": ["To carry eggs carefully", "To risk everything on one opportunity", "To go shopping", "To organize things neatly"],
+      "correct": 1,
+      "explanation": "The idiom 'Put all your eggs in one basket' means to risk everything on a single opportunity or plan.",
+      "tips": [
+        "This idiom is often used as a warning",
+        "It suggests the importance of having backup plans",
+        "It's commonly used in business and personal planning"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Quick and dirty",
+      "sentence": "I made a quick and dirty fix to the website, but we'll need to do a proper update later.",
+      "options": ["To clean something quickly", "To do something fast but not perfectly", "To make a mess", "To wash something"],
+      "correct": 1,
+      "explanation": "The idiom 'Quick and dirty' means to do something quickly without paying attention to quality or perfection.",
+      "tips": ["This is often used in technical or work contexts", "It suggests a temporary solution", "It's not meant to be a permanent fix"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Rule of thumb",
+      "sentence": "As a rule of thumb, you should save at least 20% of your income.",
+      "options": ["To measure something with your thumb", "A general principle based on experience", "To follow strict rules", "To make a mistake"],
+      "correct": 1,
+      "explanation": "The idiom 'Rule of thumb' refers to a general principle or guideline that is based on practical experience rather than exact science.",
+      "tips": [
+        "This is often used to give practical advice",
+        "It's not a strict rule but a general guideline",
+        "It's commonly used in everyday situations"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "See eye to eye",
+      "sentence": "My parents and I don't always see eye to eye on curfew times.",
+      "options": ["To look at each other", "To agree with someone", "To have good eyesight", "To make eye contact"],
+      "correct": 1,
+      "explanation": "The idiom 'See eye to eye' means to agree with someone or to have the same opinion about something.",
+      "tips": [
+        "This idiom is often used in the negative form",
+        "It's commonly used in discussions about disagreements",
+        "It suggests complete agreement or understanding"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Think outside the box",
+      "sentence": "We need to think outside the box to solve this problem creatively.",
+      "options": ["To organize your thoughts", "To think in a different way", "To forget something", "To be confused"],
+      "correct": 1,
+      "explanation": "The idiom 'Think outside the box' means to think creatively and unconventionally, beyond normal limits or boundaries.",
+      "tips": [
+        "This is often used in business and creative contexts",
+        "It encourages innovative thinking",
+        "It suggests breaking away from traditional solutions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Under your belt",
+      "sentence": "With three years of experience under your belt, you're ready for a promotion.",
+      "options": ["To wear a belt", "To have achieved or experienced something", "To be hungry", "To be dressed formally"],
+      "correct": 1,
+      "explanation": "The idiom 'Under your belt' means to have achieved or experienced something that adds to your knowledge or skills.",
+      "tips": [
+        "This idiom is often used to talk about experience",
+        "It's commonly used in professional contexts",
+        "It suggests accumulated knowledge or achievement"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Vent your spleen",
+      "sentence": "After the meeting, he vented his spleen about the new company policy.",
+      "options": ["To breathe deeply", "To express anger or frustration", "To exercise", "To relax"],
+      "correct": 1,
+      "explanation": "The idiom 'Vent your spleen' means to express anger, frustration, or strong emotions about something.",
+      "tips": [
+        "This is a formal way to say 'complain' or 'express anger'",
+        "It's often used in professional contexts",
+        "It suggests releasing pent-up emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Wear your heart on your sleeve",
+      "sentence": "She always wears her heart on her sleeve, so everyone knows how she's feeling.",
+      "options": ["To wear fancy clothes", "To show your emotions openly", "To be fashionable", "To be cold"],
+      "correct": 1,
+      "explanation": "The idiom 'Wear your heart on your sleeve' means to show your emotions openly and make your feelings obvious to others.",
+      "tips": [
+        "This idiom describes someone who is emotionally expressive",
+        "It's often used to describe sensitive people",
+        "It suggests transparency in emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "X marks the spot",
+      "sentence": "The treasure map shows that X marks the spot where the gold is buried.",
+      "options": ["To make a mistake", "To sign a document", "To indicate the exact location", "To draw a picture"],
+      "correct": 2,
+      "explanation": "The idiom 'X marks the spot' means to indicate the exact location of something, often used in treasure maps or to show where something is located.",
+      "tips": ["This idiom is often used in treasure hunt contexts", "It's commonly used in maps and directions", "It suggests precision in location"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "You are what you eat",
+      "sentence": "Remember, you are what you eat - so choose healthy foods for better health.",
+      "options": ["To be hungry", "To cook food", "Your health depends on your diet", "To eat quickly"],
+      "correct": 2,
+      "explanation": "The idiom 'You are what you eat' means that your health and well-being are directly related to the food you consume.",
+      "tips": [
+        "This idiom is often used in health and nutrition contexts",
+        "It emphasizes the importance of healthy eating",
+        "It's commonly used as advice for better health"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Zero tolerance",
+      "sentence": "The school has a zero tolerance policy for bullying.",
+      "options": ["To be very patient", "To accept everything", "To not allow any exceptions", "To be flexible"],
+      "correct": 2,
+      "explanation": "The idiom 'Zero tolerance' means to not allow any exceptions or violations of a rule or policy.",
+      "tips": [
+        "This idiom is often used in policy and rule contexts",
+        "It suggests strict enforcement of rules",
+        "It's commonly used in institutional settings"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Go the extra mile",
+      "sentence": "Sarah always goes the extra mile to help her students understand difficult concepts.",
+      "options": [
+        "To make a special effort or do more than what is expected",
+        "To travel a long distance",
+        "To run faster than others",
+        "To take a different route"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Go the extra mile' means to make a special effort or do more than what is expected or required. It comes from the Bible where Jesus taught that if someone forces you to go one mile, you should go two miles.",
+      "tips": [
+        "This idiom is often used in professional settings",
+        "It's a positive expression showing dedication",
+        "Commonly used in job interviews and performance reviews"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Apple of my eye",
+      "sentence": "My little daughter is the apple of my eye - I love her more than anything in the world.",
+      "options": [
+        "Something that is very expensive",
+        "A fruit that someone likes",
+        "Someone or something that is very precious and loved",
+        "A type of eye disease"
+      ],
+      "correct": 2,
+      "explanation": "The idiom 'Apple of my eye' refers to someone or something that is very precious and loved. It originally comes from the Old English phrase 'æppel þæs eages' which referred to the pupil of the eye, considered the most precious part.",
+      "tips": ["Often used to describe loved ones", "Common in romantic and family contexts", "Shows deep affection and care"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Blessing in disguise",
+      "sentence": "Losing my job was a blessing in disguise because it led me to find a better position.",
+      "options": ["A religious ceremony", "A hidden gift", "Something that seems bad but turns out to be good", "A secret prayer"],
+      "correct": 2,
+      "explanation": "The idiom 'Blessing in disguise' means something that appears to be bad or unlucky at first, but turns out to be good in the end. It suggests that sometimes what seems like a misfortune can actually be beneficial.",
+      "tips": ["Used to find positive aspects in negative situations", "Common in stories of personal growth", "Shows optimism and resilience"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Call it a day",
+      "sentence": "We've been working on this project for hours. Let's call it a day and continue tomorrow.",
+      "options": ["To make a phone call", "To schedule a meeting", "To stop working on something", "To celebrate a special day"],
+      "correct": 2,
+      "explanation": "The idiom 'Call it a day' means to stop working on something, usually because you've done enough work for that day. It's often used when you decide to end an activity or work session.",
+      "tips": ["Common in workplace conversations", "Used when stopping any activity, not just work", "Shows a decision to end something"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Cut corners",
+      "sentence": "The company cut corners on safety measures, which led to several accidents.",
+      "options": [
+        "To do something in the easiest or cheapest way, often sacrificing quality",
+        "To make a shape smaller",
+        "To take a shortcut while walking",
+        "To remove the edges of paper"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Cut corners' means to do something in the easiest or cheapest way, often sacrificing quality or safety. It suggests taking shortcuts that might lead to problems later.",
+      "tips": ["Usually has a negative connotation", "Common in discussions about quality and safety", "Often used in business contexts"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Hit the nail on the head",
+      "sentence": "You hit the nail on the head when you said we need better communication in our team.",
+      "options": ["To do carpentry work", "To make a mistake", "To be exactly right about something", "To cause physical pain"],
+      "correct": 2,
+      "explanation": "The idiom 'Hit the nail on the head' means to be exactly right about something or to describe a situation perfectly. It comes from carpentry, where hitting a nail directly on its head is the correct way to drive it in.",
+      "tips": ["Used to express agreement", "Common in discussions and debates", "Shows precise understanding"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Let sleeping dogs lie",
+      "sentence": "I know there's an issue with the contract, but let's let sleeping dogs lie for now.",
+      "options": ["To take care of pets", "To avoid disturbing a situation that might cause trouble", "To train animals", "To help someone sleep"],
+      "correct": 1,
+      "explanation": "The idiom 'Let sleeping dogs lie' means to avoid disturbing a situation that might cause trouble or problems. It suggests that it's better to leave things as they are if they're not causing any problems.",
+      "tips": ["Used to advise against unnecessary action", "Common in conflict situations", "Shows wisdom in choosing battles"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Miss the boat",
+      "sentence": "I missed the boat on buying that house - someone else made an offer first.",
+      "options": ["To be late for travel", "To miss an opportunity", "To fall into water", "To skip a journey"],
+      "correct": 1,
+      "explanation": "The idiom 'Miss the boat' means to miss an opportunity or to be too late to take advantage of something. It suggests that you've missed your chance to do something important.",
+      "tips": ["Often used in business contexts", "Common in discussions about opportunities", "Shows regret about missed chances"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "No pain, no gain",
+      "sentence": "I'm exhausted from training, but no pain, no gain - I need to keep pushing myself.",
+      "options": ["A medical condition", "A type of exercise", "You must work hard to achieve something", "A way to avoid suffering"],
+      "correct": 2,
+      "explanation": "The idiom 'No pain, no gain' means that you must work hard and endure difficulties to achieve something worthwhile. It's often used in sports and fitness contexts, but applies to any challenging situation.",
+      "tips": ["Common in sports and fitness", "Used to encourage perseverance", "Shows the value of hard work"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Pull someone's leg",
+      "sentence": "I'm just pulling your leg - of course I didn't forget your birthday!",
+      "options": ["To help someone walk", "To play a joke on someone", "To cause physical harm", "To give medical treatment"],
+      "correct": 1,
+      "explanation": "The idiom 'Pull someone's leg' means to play a joke on someone or to tease them in a friendly way. It's used when you're not being serious and want to make someone believe something that isn't true.",
+      "tips": ["Used in friendly, informal situations", "Common in social gatherings", "Shows playful humor"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Rain or shine",
+      "sentence": "The concert will go on rain or shine - we have a covered stage.",
+      "options": ["Weather forecast", "A type of storm", "Regardless of the circumstances", "A weather condition"],
+      "correct": 2,
+      "explanation": "The idiom 'Rain or shine' means regardless of the circumstances or conditions. It's often used to indicate that something will happen no matter what, even if the weather is bad.",
+      "tips": ["Common in event planning", "Shows commitment to a plan", "Used to express reliability"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Sit on the fence",
+      "sentence": "Don't sit on the fence - you need to make a decision about which project to support.",
+      "options": ["To rest outside", "To be undecided or neutral", "To watch a game", "To take a break"],
+      "correct": 1,
+      "explanation": "The idiom 'Sit on the fence' means to be undecided or neutral about an issue, refusing to take a side. It suggests that someone is avoiding making a decision or taking a position.",
+      "tips": ["Common in discussions and debates", "Often used to encourage decision-making", "Shows hesitation or neutrality"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Take it easy",
+      "sentence": "You've been working too hard. Why don't you take it easy this weekend?",
+      "options": ["To move slowly", "To relax and not worry", "To carry something lightly", "To walk carefully"],
+      "correct": 1,
+      "explanation": "The idiom 'Take it easy' means to relax and not worry about things. It's often used as advice to someone who is working too hard or is stressed out.",
+      "tips": ["Common in casual conversations", "Used to give friendly advice", "Shows concern for someone's well-being"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Up in the air",
+      "sentence": "The date of the meeting is still up in the air - we need to check everyone's availability.",
+      "options": ["To fly high", "To be uncertain or undecided", "To be in an airplane", "To throw something"],
+      "correct": 1,
+      "explanation": "The idiom 'Up in the air' means that something is uncertain or undecided. It's often used when plans or decisions are not yet finalized.",
+      "tips": ["Common in planning discussions", "Used to express uncertainty", "Shows that something is not yet decided"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Whole nine yards",
+      "sentence": "She went the whole nine yards for her wedding - nothing was left to chance.",
+      "options": ["A measurement of distance", "To do everything possible", "To buy a lot of fabric", "To run a long distance"],
+      "correct": 1,
+      "explanation": "The idiom 'Whole nine yards' means to do everything possible or to go all the way with something. It suggests doing something completely or thoroughly, without holding back.",
+      "tips": ["Common in planning and preparation", "Used to express thoroughness", "Shows complete commitment"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Zip your lip",
+      "sentence": "Zip your lip! I don't want to hear any more complaints about the new policy.",
+      "options": ["To close a bag", "To be quiet or stop talking", "To wear a mask", "To protect your mouth"],
+      "correct": 1,
+      "explanation": "The idiom 'Zip your lip' means to be quiet or stop talking. It's an informal way to tell someone to stop speaking, often used when someone is saying something inappropriate or unwanted.",
+      "tips": ["Informal and direct expression", "Common in casual conversations", "Can be considered slightly rude"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "A dime a dozen",
+      "sentence": "Those cheap souvenirs are a dime a dozen at the tourist shops.",
+      "options": ["Very expensive items", "Common and not valuable", "Items that cost ten cents", "Rare collectibles"],
+      "correct": 1,
+      "explanation": "The idiom 'A dime a dozen' means something is very common and not valuable. It suggests that something is so plentiful that it's not special or worth much.",
+      "tips": ["Common in discussions about value", "Used to express commonality", "Shows something is not unique"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Bite off more than you can chew",
+      "sentence": "I bit off more than I could chew by taking on three projects at once.",
+      "options": ["To take on more than you can handle", "To eat too much food", "To have dental problems", "To be hungry"],
+      "correct": 0,
+      "explanation": "The idiom 'Bite off more than you can chew' means to take on more responsibilities or tasks than you can handle. It suggests that someone has committed to more than they can realistically accomplish.",
+      "tips": ["Common in work and project contexts", "Used to warn about overcommitment", "Shows the importance of realistic planning"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Cry wolf",
+      "sentence": "He's cried wolf so many times about being sick that no one believes him anymore.",
+      "options": ["To be sad", "To make a lot of noise", "To raise a false alarm", "To be afraid"],
+      "correct": 2,
+      "explanation": "The idiom 'Cry wolf' means to raise a false alarm or to claim something is happening when it isn't. It comes from the fable about a boy who repeatedly cried 'wolf' when there was no wolf, so when a real wolf came, no one believed him.",
+      "tips": ["Common in warning situations", "Used to describe false alarms", "Shows the consequences of dishonesty"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Down to earth",
+      "sentence": "Despite her success, she remains down to earth and treats everyone with respect.",
+      "options": ["Practical and realistic", "To fall down", "To be tired", "To be sad"],
+      "correct": 0,
+      "explanation": "The idiom 'Down to earth' means to be practical and realistic, not pretentious or arrogant. It describes someone who is humble and easy to talk to, regardless of their status or success.",
+      "tips": ["Common in describing people's personalities", "Used as a compliment", "Shows appreciation for humility"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Elbow grease",
+      "sentence": "This old furniture needs some elbow grease to make it look new again.",
+      "options": ["A cleaning product", "Physical effort and hard work", "A type of oil", "A tool for cleaning"],
+      "correct": 1,
+      "explanation": "The idiom 'Elbow grease' means physical effort and hard work. It's often used when talking about cleaning or manual labor that requires a lot of effort.",
+      "tips": ["Common in cleaning and maintenance contexts", "Used to describe physical work", "Shows the value of hard work"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Face the music",
+      "sentence": "You made a mistake, and now you need to face the music and accept the consequences.",
+      "options": ["To go to a concert", "To accept the consequences of your actions", "To listen to music", "To be happy"],
+      "correct": 1,
+      "explanation": "The idiom 'Face the music' means to accept the consequences of your actions, especially when they are unpleasant. It suggests that you need to deal with the results of your decisions, whether good or bad.",
+      "tips": ["Common in situations requiring responsibility", "Used to encourage accountability", "Shows the importance of facing consequences"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+
+  {
+    "content": {
+      "idiom": "Green thumb",
+      "sentence": "My grandmother has a green thumb - all her plants are always healthy and beautiful.",
+      "options": [
+        "Someone who is good at gardening",
+        "Someone who likes the color green",
+        "Someone who has dirty hands",
+        "Someone who is good at growing plants"
+      ],
+      "correct": 3,
+      "explanation": "The idiom 'Green thumb' refers to someone who has a natural talent for growing plants and making them thrive.",
+      "tips": [
+        "This idiom is often used to compliment gardeners",
+        "It's a positive expression about someone's gardening skills",
+        "You can use it to describe both amateur and professional gardeners"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Hit the road",
+      "sentence": "It's getting late, we should hit the road before it gets dark.",
+      "options": ["To start a journey or leave", "To damage a road", "To play a game on the road", "To fix a road"],
+      "correct": 0,
+      "explanation": "The idiom 'Hit the road' means to start a journey or to leave a place.",
+      "tips": [
+        "This is a casual way to say 'let's go' or 'let's leave'",
+        "It's commonly used when saying goodbye",
+        "You can use it for both short and long journeys"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "In a nutshell",
+      "sentence": "In a nutshell, the movie was about a family's journey to find happiness.",
+      "options": ["To put something in a small container", "To eat nuts", "To summarize something briefly", "To hide something"],
+      "correct": 2,
+      "explanation": "The idiom 'In a nutshell' means to explain something in a brief and concise way.",
+      "tips": [
+        "Use this when you want to give a short summary",
+        "It's often used at the beginning of an explanation",
+        "It's a formal way to say 'in short' or 'briefly'"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Jump the gun",
+      "sentence": "Don't jump the gun - wait for the official announcement before making any decisions.",
+      "options": ["To act too quickly without thinking", "To play a sport", "To run very fast", "To start a race"],
+      "correct": 0,
+      "explanation": "The idiom 'Jump the gun' means to act too quickly or too soon, without proper preparation or consideration.",
+      "tips": [
+        "This idiom comes from track and field sports",
+        "It's often used as a warning to be patient",
+        "It suggests that someone is being hasty or premature"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Keep an eye on",
+      "sentence": "Can you keep an eye on my bag while I go to the bathroom?",
+      "options": ["To look at something with one eye", "To watch or monitor something carefully", "To close your eyes", "To wear glasses"],
+      "correct": 1,
+      "explanation": "The idiom 'Keep an eye on' means to watch or monitor something or someone carefully.",
+      "tips": [
+        "This is a common way to ask someone to watch your belongings",
+        "It's often used when asking for a favor",
+        "You can use it for both people and objects"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Under your belt",
+      "sentence": "With three years of experience under your belt, you're ready for a promotion.",
+      "options": ["To wear a belt", "To have achieved or experienced something", "To be hungry", "To be dressed formally"],
+      "correct": 1,
+      "explanation": "The idiom 'Under your belt' means to have achieved or experienced something that adds to your knowledge or skills.",
+      "tips": [
+        "This idiom is often used to talk about experience",
+        "It's commonly used in professional contexts",
+        "It suggests accumulated knowledge or achievement"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Vent your spleen",
+      "sentence": "After the meeting, he vented his spleen about the new company policy.",
+      "options": ["To breathe deeply", "To express anger or frustration", "To exercise", "To relax"],
+      "correct": 1,
+      "explanation": "The idiom 'Vent your spleen' means to express anger, frustration, or strong emotions about something.",
+      "tips": [
+        "This is a formal way to say 'complain' or 'express anger'",
+        "It's often used in professional contexts",
+        "It suggests releasing pent-up emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Wear your heart on your sleeve",
+      "sentence": "She always wears her heart on her sleeve, so everyone knows how she's feeling.",
+      "options": ["To wear fancy clothes", "To show your emotions openly", "To be fashionable", "To be cold"],
+      "correct": 1,
+      "explanation": "The idiom 'Wear your heart on your sleeve' means to show your emotions openly and make your feelings obvious to others.",
+      "tips": [
+        "This idiom describes someone who is emotionally expressive",
+        "It's often used to describe sensitive people",
+        "It suggests transparency in emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "X marks the spot",
+      "sentence": "The treasure map shows that X marks the spot where the gold is buried.",
+      "options": ["To make a mistake", "To sign a document", "To indicate the exact location", "To draw a picture"],
+      "correct": 2,
+      "explanation": "The idiom 'X marks the spot' means to indicate the exact location of something, often used in treasure maps or to show where something is located.",
+      "tips": ["This idiom is often used in treasure hunt contexts", "It's commonly used in maps and directions", "It suggests precision in location"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "You are what you eat",
+      "sentence": "Remember, you are what you eat - so choose healthy foods for better health.",
+      "options": ["To be hungry", "To cook food", "Your health depends on your diet", "To eat quickly"],
+      "correct": 2,
+      "explanation": "The idiom 'You are what you eat' means that your health and well-being are directly related to the food you consume.",
+      "tips": [
+        "This idiom is often used in health and nutrition contexts",
+        "It emphasizes the importance of healthy eating",
+        "It's commonly used as advice for better health"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Zero tolerance",
+      "sentence": "The school has a zero tolerance policy for bullying.",
+      "options": ["To be very patient", "To accept everything", "To not allow any exceptions", "To be flexible"],
+      "correct": 2,
+      "explanation": "The idiom 'Zero tolerance' means to not allow any exceptions or violations of a rule or policy.",
+      "tips": [
+        "This idiom is often used in policy and rule contexts",
+        "It suggests strict enforcement of rules",
+        "It's commonly used in institutional settings"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Go the extra mile",
+      "sentence": "Sarah always goes the extra mile to help her students understand difficult concepts.",
+      "options": [
+        "To make a special effort or do more than what is expected",
+        "To travel a long distance",
+        "To run faster than others",
+        "To take a different route"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Go the extra mile' means to make a special effort or do more than what is expected or required. It comes from the Bible where Jesus taught that if someone forces you to go one mile, you should go two miles.",
+      "tips": [
+        "This idiom is often used in professional settings",
+        "It's a positive expression showing dedication",
+        "Commonly used in job interviews and performance reviews"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Apple of my eye",
+      "sentence": "My little daughter is the apple of my eye - I love her more than anything in the world.",
+      "options": [
+        "Something that is very expensive",
+        "A fruit that someone likes",
+        "Someone or something that is very precious and loved",
+        "A type of eye disease"
+      ],
+      "correct": 2,
+      "explanation": "The idiom 'Apple of my eye' refers to someone or something that is very precious and loved. It originally comes from the Old English phrase 'æppel þæs eages' which referred to the pupil of the eye, considered the most precious part.",
+      "tips": ["Often used to describe loved ones", "Common in romantic and family contexts", "Shows deep affection and care"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Blessing in disguise",
+      "sentence": "Losing my job was a blessing in disguise because it led me to find a better position.",
+      "options": ["A religious ceremony", "A hidden gift", "Something that seems bad but turns out to be good", "A secret prayer"],
+      "correct": 2,
+      "explanation": "The idiom 'Blessing in disguise' means something that appears to be bad or unlucky at first, but turns out to be good in the end. It suggests that sometimes what seems like a misfortune can actually be beneficial.",
+      "tips": ["Used to find positive aspects in negative situations", "Common in stories of personal growth", "Shows optimism and resilience"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Call it a day",
+      "sentence": "We've been working on this project for hours. Let's call it a day and continue tomorrow.",
+      "options": ["To make a phone call", "To schedule a meeting", "To stop working on something", "To celebrate a special day"],
+      "correct": 2,
+      "explanation": "The idiom 'Call it a day' means to stop working on something, usually because you've done enough work for that day. It's often used when you decide to end an activity or work session.",
+      "tips": ["Common in workplace conversations", "Used when stopping any activity, not just work", "Shows a decision to end something"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Cut corners",
+      "sentence": "The company cut corners on safety measures, which led to several accidents.",
+      "options": [
+        "To do something in the easiest or cheapest way, often sacrificing quality",
+        "To make a shape smaller",
+        "To take a shortcut while walking",
+        "To remove the edges of paper"
+      ],
+      "correct": 0,
+      "explanation": "The idiom 'Cut corners' means to do something in the easiest or cheapest way, often sacrificing quality or safety. It suggests taking shortcuts that might lead to problems later.",
+      "tips": ["Usually has a negative connotation", "Common in discussions about quality and safety", "Often used in business contexts"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Hit the nail on the head",
+      "sentence": "You hit the nail on the head when you said we need better communication in our team.",
+      "options": ["To do carpentry work", "To make a mistake", "To be exactly right about something", "To cause physical pain"],
+      "correct": 2,
+      "explanation": "The idiom 'Hit the nail on the head' means to be exactly right about something or to describe a situation perfectly. It comes from carpentry, where hitting a nail directly on its head is the correct way to drive it in.",
+      "tips": ["Used to express agreement", "Common in discussions and debates", "Shows precise understanding"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Let sleeping dogs lie",
+      "sentence": "I know there's an issue with the contract, but let's let sleeping dogs lie for now.",
+      "options": ["To take care of pets", "To avoid disturbing a situation that might cause trouble", "To train animals", "To help someone sleep"],
+      "correct": 1,
+      "explanation": "The idiom 'Let sleeping dogs lie' means to avoid disturbing a situation that might cause trouble or problems. It suggests that it's better to leave things as they are if they're not causing any problems.",
+      "tips": ["Used to advise against unnecessary action", "Common in conflict situations", "Shows wisdom in choosing battles"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Miss the boat",
+      "sentence": "I missed the boat on buying that house - someone else made an offer first.",
+      "options": ["To be late for travel", "To miss an opportunity", "To fall into water", "To skip a journey"],
+      "correct": 1,
+      "explanation": "The idiom 'Miss the boat' means to miss an opportunity or to be too late to take advantage of something. It suggests that you've missed your chance to do something important.",
+      "tips": ["Often used in business contexts", "Common in discussions about opportunities", "Shows regret about missed chances"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "No pain, no gain",
+      "sentence": "I'm exhausted from training, but no pain, no gain - I need to keep pushing myself.",
+      "options": ["A medical condition", "A type of exercise", "You must work hard to achieve something", "A way to avoid suffering"],
+      "correct": 2,
+      "explanation": "The idiom 'No pain, no gain' means that you must work hard and endure difficulties to achieve something worthwhile. It's often used in sports and fitness contexts, but applies to any challenging situation.",
+      "tips": ["Common in sports and fitness", "Used to encourage perseverance", "Shows the value of hard work"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Pull someone's leg",
+      "sentence": "I'm just pulling your leg - of course I didn't forget your birthday!",
+      "options": ["To help someone walk", "To play a joke on someone", "To cause physical harm", "To give medical treatment"],
+      "correct": 1,
+      "explanation": "The idiom 'Pull someone's leg' means to play a joke on someone or to tease them in a friendly way. It's used when you're not being serious and want to make someone believe something that isn't true.",
+      "tips": ["Used in friendly, informal situations", "Common in social gatherings", "Shows playful humor"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Last straw",
+      "sentence": "When he was late for the third time this week, it was the last straw and I had to fire him.",
+      "options": ["The final piece of hay", "The last drink", "The final problem that makes someone lose patience", "The last item in a list"],
+      "correct": 2,
+      "explanation": "The idiom 'Last straw' refers to the final problem or incident that makes someone lose their patience or take action.",
+      "tips": [
+        "This idiom comes from the saying 'the straw that broke the camel's back'",
+        "It's used when someone has reached their limit",
+        "It's often used in negative situations"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Make ends meet",
+      "sentence": "With the rising cost of living, it's getting harder to make ends meet.",
+      "options": ["To have enough money to pay for basic needs", "To tie two pieces of string together", "To finish a project", "To meet new people"],
+      "correct": 0,
+      "explanation": "The idiom 'Make ends meet' means to have enough money to pay for basic necessities and expenses.",
+      "tips": [
+        "This idiom is often used when talking about financial difficulties",
+        "It's commonly used in discussions about budgeting",
+        "It suggests living within one's means"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Nest egg",
+      "sentence": "She's been saving money for years to build up a nest egg for her retirement.",
+      "options": ["A special type of egg", "A bird's home", "Money saved for the future", "A cooking ingredient"],
+      "correct": 2,
+      "explanation": "The idiom 'Nest egg' refers to money that has been saved or invested for future use, especially for retirement.",
+      "tips": ["This idiom is often used in financial planning", "It suggests long-term savings", "It's commonly associated with retirement planning"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "On pins and needles",
+      "sentence": "I was on pins and needles waiting for the exam results.",
+      "options": ["To be in physical pain", "To be sewing something", "To be very anxious or nervous", "To be sitting uncomfortably"],
+      "correct": 2,
+      "explanation": "The idiom 'On pins and needles' means to be very anxious, nervous, or excited about something.",
+      "tips": [
+        "This idiom describes a state of nervous anticipation",
+        "It's often used when waiting for important news",
+        "It suggests physical discomfort from anxiety"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Put all your eggs in one basket",
+      "sentence": "Don't put all your eggs in one basket - you should apply to multiple universities.",
+      "options": ["To carry eggs carefully", "To risk everything on one opportunity", "To go shopping", "To organize things neatly"],
+      "correct": 1,
+      "explanation": "The idiom 'Put all your eggs in one basket' means to risk everything on a single opportunity or plan.",
+      "tips": [
+        "This idiom is often used as a warning",
+        "It suggests the importance of having backup plans",
+        "It's commonly used in business and personal planning"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Quick and dirty",
+      "sentence": "I made a quick and dirty fix to the website, but we'll need to do a proper update later.",
+      "options": ["To clean something quickly", "To do something fast but not perfectly", "To make a mess", "To wash something"],
+      "correct": 1,
+      "explanation": "The idiom 'Quick and dirty' means to do something quickly without paying attention to quality or perfection.",
+      "tips": ["This is often used in technical or work contexts", "It suggests a temporary solution", "It's not meant to be a permanent fix"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Rule of thumb",
+      "sentence": "As a rule of thumb, you should save at least 20% of your income.",
+      "options": ["To measure something with your thumb", "A general principle based on experience", "To follow strict rules", "To make a mistake"],
+      "correct": 1,
+      "explanation": "The idiom 'Rule of thumb' refers to a general principle or guideline that is based on practical experience rather than exact science.",
+      "tips": [
+        "This is often used to give practical advice",
+        "It's not a strict rule but a general guideline",
+        "It's commonly used in everyday situations"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "See eye to eye",
+      "sentence": "My parents and I don't always see eye to eye on curfew times.",
+      "options": ["To look at each other", "To agree with someone", "To have good eyesight", "To make eye contact"],
+      "correct": 1,
+      "explanation": "The idiom 'See eye to eye' means to agree with someone or to have the same opinion about something.",
+      "tips": [
+        "This idiom is often used in the negative form",
+        "It's commonly used in discussions about disagreements",
+        "It suggests complete agreement or understanding"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Think outside the box",
+      "sentence": "We need to think outside the box to solve this problem creatively.",
+      "options": ["To organize your thoughts", "To think in a different way", "To forget something", "To be confused"],
+      "correct": 1,
+      "explanation": "The idiom 'Think outside the box' means to think creatively and unconventionally, beyond normal limits or boundaries.",
+      "tips": [
+        "This is often used in business and creative contexts",
+        "It encourages innovative thinking",
+        "It suggests breaking away from traditional solutions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Under your belt",
+      "sentence": "With three years of experience under your belt, you're ready for a promotion.",
+      "options": ["To wear a belt", "To have achieved or experienced something", "To be hungry", "To be dressed formally"],
+      "correct": 1,
+      "explanation": "The idiom 'Under your belt' means to have achieved or experienced something that adds to your knowledge or skills.",
+      "tips": [
+        "This idiom is often used to talk about experience",
+        "It's commonly used in professional contexts",
+        "It suggests accumulated knowledge or achievement"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Vent your spleen",
+      "sentence": "After the meeting, he vented his spleen about the new company policy.",
+      "options": ["To breathe deeply", "To express anger or frustration", "To exercise", "To relax"],
+      "correct": 1,
+      "explanation": "The idiom 'Vent your spleen' means to express anger, frustration, or strong emotions about something.",
+      "tips": [
+        "This is a formal way to say 'complain' or 'express anger'",
+        "It's often used in professional contexts",
+        "It suggests releasing pent-up emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Wear your heart on your sleeve",
+      "sentence": "She always wears her heart on her sleeve, so everyone knows how she's feeling.",
+      "options": ["To wear fancy clothes", "To show your emotions openly", "To be fashionable", "To be cold"],
+      "correct": 1,
+      "explanation": "The idiom 'Wear your heart on your sleeve' means to show your emotions openly and make your feelings obvious to others.",
+      "tips": [
+        "This idiom describes someone who is emotionally expressive",
+        "It's often used to describe sensitive people",
+        "It suggests transparency in emotions"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "X marks the spot",
+      "sentence": "The treasure map shows that X marks the spot where the gold is buried.",
+      "options": ["To make a mistake", "To sign a document", "To indicate the exact location", "To draw a picture"],
+      "correct": 2,
+      "explanation": "The idiom 'X marks the spot' means to indicate the exact location of something, often used in treasure maps or to show where something is located.",
+      "tips": ["This idiom is often used in treasure hunt contexts", "It's commonly used in maps and directions", "It suggests precision in location"]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "You are what you eat",
+      "sentence": "Remember, you are what you eat - so choose healthy foods for better health.",
+      "options": ["To be hungry", "To cook food", "Your health depends on your diet", "To eat quickly"],
+      "correct": 2,
+      "explanation": "The idiom 'You are what you eat' means that your health and well-being are directly related to the food you consume.",
+      "tips": [
+        "This idiom is often used in health and nutrition contexts",
+        "It emphasizes the importance of healthy eating",
+        "It's commonly used as advice for better health"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "idiom": "Zero tolerance",
+      "sentence": "The school has a zero tolerance policy for bullying.",
+      "options": ["To be very patient", "To accept everything", "To not allow any exceptions", "To be flexible"],
+      "correct": 2,
+      "explanation": "The idiom 'Zero tolerance' means to not allow any exceptions or violations of a rule or policy.",
+      "tips": [
+        "This idiom is often used in policy and rule contexts",
+        "It suggests strict enforcement of rules",
+        "It's commonly used in institutional settings"
+      ]
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "idioms",
+      "subCategory": "general",
+      "tags": ["idioms", "english", "A1"],
+      "type": "idiom-challenge"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  }
+]

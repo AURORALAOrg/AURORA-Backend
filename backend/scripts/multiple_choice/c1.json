@@ -1,0 +1,2102 @@
+[
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Not only does he sing, but he also dances.",
+      "wrongAnswers": ["Not only he sings, but he also dances.", "Not only sings he, but also dances.", "Not only he does sing, but also dances."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"continual\" from \"continuous\"?",
+      "correctAnswer": "Frequency vs. duration",
+      "wrongAnswers": ["Intensity", "Context", "Formality"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which is NOT a Kant work?",
+      "correctAnswer": "Thus Spoke Zarathustra",
+      "wrongAnswers": ["Critique of Pure Reason", "Groundwork of Metaphysics", "Critique of Judgment"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correctAnswer": "Position/momentum",
+      "wrongAnswers": ["Time/energy", "Charge/spin", "Mass/velocity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is correct?",
+      "correctAnswer": "I demand that he return.",
+      "wrongAnswers": ["I demand that he returns.", "I demand that he will return.", "I demand that he returned."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In astrophysics, What is a pulsar??",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": ["what is a pulsar?", "Black hole", "White dwarf"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase implies nuance?",
+      "correctAnswer": "To a certain extent",
+      "wrongAnswers": ["Without exception", "Absolutely", "Undeniably"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What characterizes \"synecdoche\"?",
+      "correctAnswer": "Part for whole",
+      "wrongAnswers": ["Opposite meaning", "Exaggeration", "Sound imitation"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher proposed the \"veil of ignorance\"?",
+      "correctAnswer": "Rawls",
+      "wrongAnswers": ["Nietzsche", "Locke", "Hume"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is CRISPR?",
+      "correctAnswer": "Gene editing",
+      "wrongAnswers": ["Quantum computing", "AI algorithm", "Telescope"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is strongest?",
+      "correctAnswer": "Utterly ridiculous",
+      "wrongAnswers": ["Very ridiculous", "Quite ridiculous", "Really ridiculous"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In economics, what does \"Gini coefficient\" measure?",
+      "correctAnswer": "Inflation",
+      "wrongAnswers": ["Return on Investment", "Inequality", "GDP growth"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses cataphora?",
+      "correctAnswer": "It surprised John: the gift.",
+      "wrongAnswers": ["When he arrived, John ate.", "After eating, John left.", "John ate before leaving."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Drake Equation?",
+      "correctAnswer": "Alien life probability",
+      "wrongAnswers": ["Dark energy", "Quantum gravity", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"time's arrow\"?",
+      "correctAnswer": "Entropy",
+      "wrongAnswers": ["Enthalpy", "Efficacy", "Epistemology"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In law, What is \"certiorari\"??",
+      "correctAnswer": "Appeal review",
+      "wrongAnswers": ["what is \"certiorari\"?", "Jury summons", "Property deed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows epistemic modality?",
+      "correctAnswer": "It must be raining.",
+      "wrongAnswers": ["It is raining.", "It rains.", "It rained."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is Gödel's Incompleteness Theorem?",
+      "correctAnswer": "All systems incomplete",
+      "wrongAnswers": ["Chaos theory", "Quantum uncertainty", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The pen is mightier than the sword\"?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": ["Metonymy", "Oxymoron", "Antithesis"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In chemistry, What is a zwitterion??",
+      "correctAnswer": "Positive ion",
+      "wrongAnswers": ["what is a zwitterion?", "Neutral molecule", "Negative ion"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Not only does he sing, but he also dances.",
+      "wrongAnswers": ["Not only he sings, but he also dances.", "Not only sings he, but also dances.", "Not only he does sing, but also dances."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"continual\" from \"continuous\"?",
+      "correctAnswer": "Frequency vs. duration",
+      "wrongAnswers": ["Intensity", "Context", "Formality"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which is NOT a Kant work?",
+      "correctAnswer": "Thus Spoke Zarathustra",
+      "wrongAnswers": ["Critique of Pure Reason", "Groundwork of Metaphysics", "Critique of Judgment"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correctAnswer": "Position/momentum",
+      "wrongAnswers": ["Time/energy", "Charge/spin", "Mass/velocity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is correct?",
+      "correctAnswer": "I demand that he return.",
+      "wrongAnswers": ["I demand that he returns.", "I demand that he will return.", "I demand that he returned."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In astrophysics, What is a pulsar??",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": ["what is a pulsar?", "Black hole", "White dwarf"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase implies nuance?",
+      "correctAnswer": "To a certain extent",
+      "wrongAnswers": ["Without exception", "Absolutely", "Undeniably"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What characterizes \"synecdoche\"?",
+      "correctAnswer": "Part for whole",
+      "wrongAnswers": ["Opposite meaning", "Exaggeration", "Sound imitation"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher proposed the \"veil of ignorance\"?",
+      "correctAnswer": "Rawls",
+      "wrongAnswers": ["Nietzsche", "Locke", "Hume"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is CRISPR?",
+      "correctAnswer": "Gene editing",
+      "wrongAnswers": ["Quantum computing", "AI algorithm", "Telescope"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is strongest?",
+      "correctAnswer": "Utterly ridiculous",
+      "wrongAnswers": ["Very ridiculous", "Quite ridiculous", "Really ridiculous"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In economics, what does \"Gini coefficient\" measure?",
+      "correctAnswer": "Inflation",
+      "wrongAnswers": ["Return on Investment", "Inequality", "GDP growth"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses cataphora?",
+      "correctAnswer": "It surprised John: the gift.",
+      "wrongAnswers": ["When he arrived, John ate.", "After eating, John left.", "John ate before leaving."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Drake Equation?",
+      "correctAnswer": "Alien life probability",
+      "wrongAnswers": ["Dark energy", "Quantum gravity", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"time's arrow\"?",
+      "correctAnswer": "Entropy",
+      "wrongAnswers": ["Enthalpy", "Efficacy", "Epistemology"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In law, What is \"certiorari\"??",
+      "correctAnswer": "Appeal review",
+      "wrongAnswers": ["what is \"certiorari\"?", "Jury summons", "Property deed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows epistemic modality?",
+      "correctAnswer": "It must be raining.",
+      "wrongAnswers": ["It is raining.", "It rains.", "It rained."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is Gödel's Incompleteness Theorem?",
+      "correctAnswer": "All systems incomplete",
+      "wrongAnswers": ["Chaos theory", "Quantum uncertainty", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The pen is mightier than the sword\"?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": ["Metonymy", "Oxymoron", "Antithesis"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In chemistry, What is a zwitterion??",
+      "correctAnswer": "Positive ion",
+      "wrongAnswers": ["what is a zwitterion?", "Neutral molecule", "Negative ion"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Not only does he sing, but he also dances.",
+      "wrongAnswers": ["Not only he sings, but he also dances.", "Not only sings he, but also dances.", "Not only he does sing, but also dances."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"continual\" from \"continuous\"?",
+      "correctAnswer": "Frequency vs. duration",
+      "wrongAnswers": ["Intensity", "Context", "Formality"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which is NOT a Kant work?",
+      "correctAnswer": "Thus Spoke Zarathustra",
+      "wrongAnswers": ["Critique of Pure Reason", "Groundwork of Metaphysics", "Critique of Judgment"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correctAnswer": "Position/momentum",
+      "wrongAnswers": ["Time/energy", "Charge/spin", "Mass/velocity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is correct?",
+      "correctAnswer": "I demand that he return.",
+      "wrongAnswers": ["I demand that he returns.", "I demand that he will return.", "I demand that he returned."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In astrophysics, What is a pulsar??",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": ["what is a pulsar?", "Black hole", "White dwarf"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase implies nuance?",
+      "correctAnswer": "To a certain extent",
+      "wrongAnswers": ["Without exception", "Absolutely", "Undeniably"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What characterizes \"synecdoche\"?",
+      "correctAnswer": "Part for whole",
+      "wrongAnswers": ["Opposite meaning", "Exaggeration", "Sound imitation"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher proposed the \"veil of ignorance\"?",
+      "correctAnswer": "Rawls",
+      "wrongAnswers": ["Nietzsche", "Locke", "Hume"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is CRISPR?",
+      "correctAnswer": "Gene editing",
+      "wrongAnswers": ["Quantum computing", "AI algorithm", "Telescope"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is strongest?",
+      "correctAnswer": "Utterly ridiculous",
+      "wrongAnswers": ["Very ridiculous", "Quite ridiculous", "Really ridiculous"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In economics, what does \"Gini coefficient\" measure?",
+      "correctAnswer": "Inflation",
+      "wrongAnswers": ["Return on Investment", "Inequality", "GDP growth"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses cataphora?",
+      "correctAnswer": "It surprised John: the gift.",
+      "wrongAnswers": ["When he arrived, John ate.", "After eating, John left.", "John ate before leaving."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Drake Equation?",
+      "correctAnswer": "Alien life probability",
+      "wrongAnswers": ["Dark energy", "Quantum gravity", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"time's arrow\"?",
+      "correctAnswer": "Entropy",
+      "wrongAnswers": ["Enthalpy", "Efficacy", "Epistemology"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In law, What is \"certiorari\"??",
+      "correctAnswer": "Appeal review",
+      "wrongAnswers": ["what is \"certiorari\"?", "Jury summons", "Property deed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows epistemic modality?",
+      "correctAnswer": "It must be raining.",
+      "wrongAnswers": ["It is raining.", "It rains.", "It rained."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is Gödel's Incompleteness Theorem?",
+      "correctAnswer": "All systems incomplete",
+      "wrongAnswers": ["Chaos theory", "Quantum uncertainty", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The pen is mightier than the sword\"?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": ["Metonymy", "Oxymoron", "Antithesis"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In chemistry, What is a zwitterion??",
+      "correctAnswer": "Positive ion",
+      "wrongAnswers": ["what is a zwitterion?", "Neutral molecule", "Negative ion"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Not only does he sing, but he also dances.",
+      "wrongAnswers": ["Not only he sings, but he also dances.", "Not only sings he, but also dances.", "Not only he does sing, but also dances."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"continual\" from \"continuous\"?",
+      "correctAnswer": "Frequency vs. duration",
+      "wrongAnswers": ["Intensity", "Context", "Formality"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which is NOT a Kant work?",
+      "correctAnswer": "Thus Spoke Zarathustra",
+      "wrongAnswers": ["Critique of Pure Reason", "Groundwork of Metaphysics", "Critique of Judgment"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correctAnswer": "Position/momentum",
+      "wrongAnswers": ["Time/energy", "Charge/spin", "Mass/velocity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is correct?",
+      "correctAnswer": "I demand that he return.",
+      "wrongAnswers": ["I demand that he returns.", "I demand that he will return.", "I demand that he returned."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In astrophysics, What is a pulsar??",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": ["what is a pulsar?", "Black hole", "White dwarf"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase implies nuance?",
+      "correctAnswer": "To a certain extent",
+      "wrongAnswers": ["Without exception", "Absolutely", "Undeniably"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What characterizes \"synecdoche\"?",
+      "correctAnswer": "Part for whole",
+      "wrongAnswers": ["Opposite meaning", "Exaggeration", "Sound imitation"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher proposed the \"veil of ignorance\"?",
+      "correctAnswer": "Rawls",
+      "wrongAnswers": ["Nietzsche", "Locke", "Hume"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is CRISPR?",
+      "correctAnswer": "Gene editing",
+      "wrongAnswers": ["Quantum computing", "AI algorithm", "Telescope"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is strongest?",
+      "correctAnswer": "Utterly ridiculous",
+      "wrongAnswers": ["Very ridiculous", "Quite ridiculous", "Really ridiculous"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In economics, what does \"Gini coefficient\" measure?",
+      "correctAnswer": "Inflation",
+      "wrongAnswers": ["Return on Investment", "Inequality", "GDP growth"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses cataphora?",
+      "correctAnswer": "It surprised John: the gift.",
+      "wrongAnswers": ["When he arrived, John ate.", "After eating, John left.", "John ate before leaving."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Drake Equation?",
+      "correctAnswer": "Alien life probability",
+      "wrongAnswers": ["Dark energy", "Quantum gravity", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"time's arrow\"?",
+      "correctAnswer": "Entropy",
+      "wrongAnswers": ["Enthalpy", "Efficacy", "Epistemology"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In law, What is \"certiorari\"??",
+      "correctAnswer": "Appeal review",
+      "wrongAnswers": ["what is \"certiorari\"?", "Jury summons", "Property deed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows epistemic modality?",
+      "correctAnswer": "It must be raining.",
+      "wrongAnswers": ["It is raining.", "It rains.", "It rained."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is Gödel's Incompleteness Theorem?",
+      "correctAnswer": "All systems incomplete",
+      "wrongAnswers": ["Chaos theory", "Quantum uncertainty", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The pen is mightier than the sword\"?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": ["Metonymy", "Oxymoron", "Antithesis"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In chemistry, What is a zwitterion??",
+      "correctAnswer": "Positive ion",
+      "wrongAnswers": ["what is a zwitterion?", "Neutral molecule", "Negative ion"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Not only does he sing, but he also dances.",
+      "wrongAnswers": ["Not only he sings, but he also dances.", "Not only sings he, but also dances.", "Not only he does sing, but also dances."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"continual\" from \"continuous\"?",
+      "correctAnswer": "Frequency vs. duration",
+      "wrongAnswers": ["Intensity", "Context", "Formality"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which is NOT a Kant work?",
+      "correctAnswer": "Thus Spoke Zarathustra",
+      "wrongAnswers": ["Critique of Pure Reason", "Groundwork of Metaphysics", "Critique of Judgment"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Heisenberg Uncertainty Principle?",
+      "correctAnswer": "Position/momentum",
+      "wrongAnswers": ["Time/energy", "Charge/spin", "Mass/velocity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is correct?",
+      "correctAnswer": "I demand that he return.",
+      "wrongAnswers": ["I demand that he returns.", "I demand that he will return.", "I demand that he returned."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In astrophysics, What is a pulsar??",
+      "correctAnswer": "Neutron star",
+      "wrongAnswers": ["what is a pulsar?", "Black hole", "White dwarf"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase implies nuance?",
+      "correctAnswer": "To a certain extent",
+      "wrongAnswers": ["Without exception", "Absolutely", "Undeniably"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What characterizes \"synecdoche\"?",
+      "correctAnswer": "Part for whole",
+      "wrongAnswers": ["Opposite meaning", "Exaggeration", "Sound imitation"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher proposed the \"veil of ignorance\"?",
+      "correctAnswer": "Rawls",
+      "wrongAnswers": ["Nietzsche", "Locke", "Hume"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is CRISPR?",
+      "correctAnswer": "Gene editing",
+      "wrongAnswers": ["Quantum computing", "AI algorithm", "Telescope"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is strongest?",
+      "correctAnswer": "Utterly ridiculous",
+      "wrongAnswers": ["Very ridiculous", "Quite ridiculous", "Really ridiculous"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In economics, what does \"Gini coefficient\" measure?",
+      "correctAnswer": "Inflation",
+      "wrongAnswers": ["Return on Investment", "Inequality", "GDP growth"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses cataphora?",
+      "correctAnswer": "It surprised John: the gift.",
+      "wrongAnswers": ["When he arrived, John ate.", "After eating, John left.", "John ate before leaving."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Drake Equation?",
+      "correctAnswer": "Alien life probability",
+      "wrongAnswers": ["Dark energy", "Quantum gravity", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"time's arrow\"?",
+      "correctAnswer": "Entropy",
+      "wrongAnswers": ["Enthalpy", "Efficacy", "Epistemology"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In law, What is \"certiorari\"??",
+      "correctAnswer": "Appeal review",
+      "wrongAnswers": ["what is \"certiorari\"?", "Jury summons", "Property deed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows epistemic modality?",
+      "correctAnswer": "It must be raining.",
+      "wrongAnswers": ["It is raining.", "It rains.", "It rained."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "What is Gödel's Incompleteness Theorem?",
+      "correctAnswer": "All systems incomplete",
+      "wrongAnswers": ["Chaos theory", "Quantum uncertainty", "Relativity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The pen is mightier than the sword\"?",
+      "correctAnswer": "Metaphor",
+      "wrongAnswers": ["Metonymy", "Oxymoron", "Antithesis"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  },
+  {
+    "content": {
+      "question": "In chemistry, What is a zwitterion??",
+      "correctAnswer": "Positive ion",
+      "wrongAnswers": ["what is a zwitterion?", "Neutral molecule", "Negative ion"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C1",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "inversion", "emphasis"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 30,
+      "timeLimit": 50,
+      "difficultyMultiplier": 1.5
+    }
+  }
+]

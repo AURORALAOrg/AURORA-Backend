@@ -1,0 +1,2902 @@
+[
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I went to school.",
+      "wrongAnswers": [
+        "I goed to school.",
+        "I wented to school.",
+        "I goes to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the past of \"eat\"?",
+      "correctAnswer": "Ate",
+      "wrongAnswers": [
+        "Eated",
+        "Ated",
+        "Eaten"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"not expensive\"?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive",
+        "Rich",
+        "Poor"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What's the opposite of \"old\"?",
+      "correctAnswer": "Young",
+      "wrongAnswers": [
+        "New",
+        "Big",
+        "Small"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She is taller than me.",
+      "wrongAnswers": [
+        "She is more tall than me.",
+        "She is tall than me.",
+        "She is tallest than me."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you use to cut paper?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": [
+        "Spoon",
+        "Fork",
+        "Plate"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a vegetable? [🥕]",
+      "correctAnswer": "Carrot",
+      "wrongAnswers": [
+        "Banana",
+        "Chicken",
+        "Bread"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What time is \"midnight\"?",
+      "correctAnswer": "12 AM",
+      "wrongAnswers": [
+        "12 PM",
+        "6 AM",
+        "3 PM"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I am 10 years old.",
+      "wrongAnswers": [
+        "I have 10 years.",
+        "I am 10 years.",
+        "I have 10 years old."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "wrongAnswers": [
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"I don't care\"?",
+      "correctAnswer": "I don't mind",
+      "wrongAnswers": [
+        "I'm hungry",
+        "I don't know",
+        "I don't understand"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you call a baby cat?",
+      "correctAnswer": "Kitten",
+      "wrongAnswers": [
+        "Puppy",
+        "Cub",
+        "Calf"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "Can you help me?",
+      "wrongAnswers": [
+        "Can you helping me?",
+        "Can you to help me?",
+        "Do you can help me?"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🌧️]",
+      "correctAnswer": "Rainy",
+      "wrongAnswers": [
+        "Sunny",
+        "Windy",
+        "Snowy"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is the fastest?",
+      "correctAnswer": "Airplane",
+      "wrongAnswers": [
+        "Bicycle",
+        "Car",
+        "Helicopter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you say when you leave?",
+      "correctAnswer": "Goodbye",
+      "wrongAnswers": [
+        "Hello",
+        "Thank you",
+        "Excuse me"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I like listening to music.",
+      "wrongAnswers": [
+        "I like listening music.",
+        "I like listen music.",
+        "I like to listening music."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What month comes after April?",
+      "correctAnswer": "May",
+      "wrongAnswers": [
+        "March",
+        "June",
+        "July"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is not a fruit? [🍕]",
+      "correctAnswer": "Pizza",
+      "wrongAnswers": [
+        "Apple",
+        "Orange",
+        "Banana"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the third planet from the sun?",
+      "correctAnswer": "Earth",
+      "wrongAnswers": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I went to school.",
+      "wrongAnswers": [
+        "I goed to school.",
+        "I wented to school.",
+        "I goes to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the past of \"eat\"?",
+      "correctAnswer": "Ate",
+      "wrongAnswers": [
+        "Eated",
+        "Ated",
+        "Eaten"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"not expensive\"?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive",
+        "Rich",
+        "Poor"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What's the opposite of \"old\"?",
+      "correctAnswer": "Young",
+      "wrongAnswers": [
+        "New",
+        "Big",
+        "Small"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She is taller than me.",
+      "wrongAnswers": [
+        "She is more tall than me.",
+        "She is tall than me.",
+        "She is tallest than me."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you use to cut paper?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": [
+        "Spoon",
+        "Fork",
+        "Plate"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a vegetable? [🥕]",
+      "correctAnswer": "Carrot",
+      "wrongAnswers": [
+        "Banana",
+        "Chicken",
+        "Bread"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What time is \"midnight\"?",
+      "correctAnswer": "12 AM",
+      "wrongAnswers": [
+        "12 PM",
+        "6 AM",
+        "3 PM"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I am 10 years old.",
+      "wrongAnswers": [
+        "I have 10 years.",
+        "I am 10 years.",
+        "I have 10 years old."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "wrongAnswers": [
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"I don't care\"?",
+      "correctAnswer": "I don't mind",
+      "wrongAnswers": [
+        "I'm hungry",
+        "I don't know",
+        "I don't understand"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you call a baby cat?",
+      "correctAnswer": "Kitten",
+      "wrongAnswers": [
+        "Puppy",
+        "Cub",
+        "Calf"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "Can you help me?",
+      "wrongAnswers": [
+        "Can you helping me?",
+        "Can you to help me?",
+        "Do you can help me?"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🌧️]",
+      "correctAnswer": "Rainy",
+      "wrongAnswers": [
+        "Sunny",
+        "Windy",
+        "Snowy"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is the fastest?",
+      "correctAnswer": "Airplane",
+      "wrongAnswers": [
+        "Bicycle",
+        "Car",
+        "Helicopter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you say when you leave?",
+      "correctAnswer": "Goodbye",
+      "wrongAnswers": [
+        "Hello",
+        "Thank you",
+        "Excuse me"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I like listening to music.",
+      "wrongAnswers": [
+        "I like listening music.",
+        "I like listen music.",
+        "I like to listening music."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What month comes after April?",
+      "correctAnswer": "May",
+      "wrongAnswers": [
+        "March",
+        "June",
+        "July"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is not a fruit? [🍕]",
+      "correctAnswer": "Pizza",
+      "wrongAnswers": [
+        "Apple",
+        "Orange",
+        "Banana"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the third planet from the sun?",
+      "correctAnswer": "Earth",
+      "wrongAnswers": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I went to school.",
+      "wrongAnswers": [
+        "I goed to school.",
+        "I wented to school.",
+        "I goes to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the past of \"eat\"?",
+      "correctAnswer": "Ate",
+      "wrongAnswers": [
+        "Eated",
+        "Ated",
+        "Eaten"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"not expensive\"?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive",
+        "Rich",
+        "Poor"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What's the opposite of \"old\"?",
+      "correctAnswer": "Young",
+      "wrongAnswers": [
+        "New",
+        "Big",
+        "Small"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She is taller than me.",
+      "wrongAnswers": [
+        "She is more tall than me.",
+        "She is tall than me.",
+        "She is tallest than me."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you use to cut paper?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": [
+        "Spoon",
+        "Fork",
+        "Plate"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a vegetable? [🥕]",
+      "correctAnswer": "Carrot",
+      "wrongAnswers": [
+        "Banana",
+        "Chicken",
+        "Bread"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What time is \"midnight\"?",
+      "correctAnswer": "12 AM",
+      "wrongAnswers": [
+        "12 PM",
+        "6 AM",
+        "3 PM"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I am 10 years old.",
+      "wrongAnswers": [
+        "I have 10 years.",
+        "I am 10 years.",
+        "I have 10 years old."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "wrongAnswers": [
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"I don't care\"?",
+      "correctAnswer": "I don't mind",
+      "wrongAnswers": [
+        "I'm hungry",
+        "I don't know",
+        "I don't understand"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you call a baby cat?",
+      "correctAnswer": "Kitten",
+      "wrongAnswers": [
+        "Puppy",
+        "Cub",
+        "Calf"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "Can you help me?",
+      "wrongAnswers": [
+        "Can you helping me?",
+        "Can you to help me?",
+        "Do you can help me?"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🌧️]",
+      "correctAnswer": "Rainy",
+      "wrongAnswers": [
+        "Sunny",
+        "Windy",
+        "Snowy"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is the fastest?",
+      "correctAnswer": "Airplane",
+      "wrongAnswers": [
+        "Bicycle",
+        "Car",
+        "Helicopter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you say when you leave?",
+      "correctAnswer": "Goodbye",
+      "wrongAnswers": [
+        "Hello",
+        "Thank you",
+        "Excuse me"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I like listening to music.",
+      "wrongAnswers": [
+        "I like listening music.",
+        "I like listen music.",
+        "I like to listening music."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What month comes after April?",
+      "correctAnswer": "May",
+      "wrongAnswers": [
+        "March",
+        "June",
+        "July"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is not a fruit? [🍕]",
+      "correctAnswer": "Pizza",
+      "wrongAnswers": [
+        "Apple",
+        "Orange",
+        "Banana"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the third planet from the sun?",
+      "correctAnswer": "Earth",
+      "wrongAnswers": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I went to school.",
+      "wrongAnswers": [
+        "I goed to school.",
+        "I wented to school.",
+        "I goes to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the past of \"eat\"?",
+      "correctAnswer": "Ate",
+      "wrongAnswers": [
+        "Eated",
+        "Ated",
+        "Eaten"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"not expensive\"?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive",
+        "Rich",
+        "Poor"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What's the opposite of \"old\"?",
+      "correctAnswer": "Young",
+      "wrongAnswers": [
+        "New",
+        "Big",
+        "Small"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She is taller than me.",
+      "wrongAnswers": [
+        "She is more tall than me.",
+        "She is tall than me.",
+        "She is tallest than me."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you use to cut paper?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": [
+        "Spoon",
+        "Fork",
+        "Plate"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a vegetable? [🥕]",
+      "correctAnswer": "Carrot",
+      "wrongAnswers": [
+        "Banana",
+        "Chicken",
+        "Bread"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What time is \"midnight\"?",
+      "correctAnswer": "12 AM",
+      "wrongAnswers": [
+        "12 PM",
+        "6 AM",
+        "3 PM"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I am 10 years old.",
+      "wrongAnswers": [
+        "I have 10 years.",
+        "I am 10 years.",
+        "I have 10 years old."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "wrongAnswers": [
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"I don't care\"?",
+      "correctAnswer": "I don't mind",
+      "wrongAnswers": [
+        "I'm hungry",
+        "I don't know",
+        "I don't understand"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you call a baby cat?",
+      "correctAnswer": "Kitten",
+      "wrongAnswers": [
+        "Puppy",
+        "Cub",
+        "Calf"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "Can you help me?",
+      "wrongAnswers": [
+        "Can you helping me?",
+        "Can you to help me?",
+        "Do you can help me?"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🌧️]",
+      "correctAnswer": "Rainy",
+      "wrongAnswers": [
+        "Sunny",
+        "Windy",
+        "Snowy"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is the fastest?",
+      "correctAnswer": "Airplane",
+      "wrongAnswers": [
+        "Bicycle",
+        "Car",
+        "Helicopter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you say when you leave?",
+      "correctAnswer": "Goodbye",
+      "wrongAnswers": [
+        "Hello",
+        "Thank you",
+        "Excuse me"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I like listening to music.",
+      "wrongAnswers": [
+        "I like listening music.",
+        "I like listen music.",
+        "I like to listening music."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What month comes after April?",
+      "correctAnswer": "May",
+      "wrongAnswers": [
+        "March",
+        "June",
+        "July"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is not a fruit? [🍕]",
+      "correctAnswer": "Pizza",
+      "wrongAnswers": [
+        "Apple",
+        "Orange",
+        "Banana"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the third planet from the sun?",
+      "correctAnswer": "Earth",
+      "wrongAnswers": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I went to school.",
+      "wrongAnswers": [
+        "I goed to school.",
+        "I wented to school.",
+        "I goes to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the past of \"eat\"?",
+      "correctAnswer": "Ate",
+      "wrongAnswers": [
+        "Eated",
+        "Ated",
+        "Eaten"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"not expensive\"?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive",
+        "Rich",
+        "Poor"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What's the opposite of \"old\"?",
+      "correctAnswer": "Young",
+      "wrongAnswers": [
+        "New",
+        "Big",
+        "Small"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She is taller than me.",
+      "wrongAnswers": [
+        "She is more tall than me.",
+        "She is tall than me.",
+        "She is tallest than me."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you use to cut paper?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": [
+        "Spoon",
+        "Fork",
+        "Plate"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a vegetable? [🥕]",
+      "correctAnswer": "Carrot",
+      "wrongAnswers": [
+        "Banana",
+        "Chicken",
+        "Bread"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What time is \"midnight\"?",
+      "correctAnswer": "12 AM",
+      "wrongAnswers": [
+        "12 PM",
+        "6 AM",
+        "3 PM"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I am 10 years old.",
+      "wrongAnswers": [
+        "I have 10 years.",
+        "I am 10 years.",
+        "I have 10 years old."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of France?",
+      "correctAnswer": "Paris",
+      "wrongAnswers": [
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"I don't care\"?",
+      "correctAnswer": "I don't mind",
+      "wrongAnswers": [
+        "I'm hungry",
+        "I don't know",
+        "I don't understand"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you call a baby cat?",
+      "correctAnswer": "Kitten",
+      "wrongAnswers": [
+        "Puppy",
+        "Cub",
+        "Calf"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "Can you help me?",
+      "wrongAnswers": [
+        "Can you helping me?",
+        "Can you to help me?",
+        "Do you can help me?"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🌧️]",
+      "correctAnswer": "Rainy",
+      "wrongAnswers": [
+        "Sunny",
+        "Windy",
+        "Snowy"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is the fastest?",
+      "correctAnswer": "Airplane",
+      "wrongAnswers": [
+        "Bicycle",
+        "Car",
+        "Helicopter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What do you say when you leave?",
+      "correctAnswer": "Goodbye",
+      "wrongAnswers": [
+        "Hello",
+        "Thank you",
+        "Excuse me"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I like listening to music.",
+      "wrongAnswers": [
+        "I like listening music.",
+        "I like listen music.",
+        "I like to listening music."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What month comes after April?",
+      "correctAnswer": "May",
+      "wrongAnswers": [
+        "March",
+        "June",
+        "July"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "Which is not a fruit? [🍕]",
+      "correctAnswer": "Pizza",
+      "wrongAnswers": [
+        "Apple",
+        "Orange",
+        "Banana"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "question": "What is the third planet from the sun?",
+      "correctAnswer": "Earth",
+      "wrongAnswers": [
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  }
+]

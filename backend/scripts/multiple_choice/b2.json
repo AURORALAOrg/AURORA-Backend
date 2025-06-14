@@ -1,0 +1,2102 @@
+[
+  {
+    "content": {
+      "question": "Which word completes: \"I wish I ___ richer\"?",
+      "correctAnswer": "were",
+      "wrongAnswers": ["am", "was", "would be"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the subjunctive form?",
+      "correctAnswer": "It's essential he be informed.",
+      "wrongAnswers": ["It's essential he is informed.", "It's essential he will be informed.", "It's essential he to be informed."],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to extinguish\"?",
+      "correctAnswer": "Put out",
+      "wrongAnswers": ["Put off", "Put away", "Put down"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasília",
+      "wrongAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion: \"Never ___ such nonsense\".",
+      "correctAnswer": "have I heard",
+      "wrongAnswers": ["I heard", "I hear", "do I hear"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"The Republic\"?",
+      "correctAnswer": "Plato",
+      "wrongAnswers": ["Aristotle", "Socrates", "Descartes"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the chemical symbol for gold?",
+      "correctAnswer": "Au",
+      "wrongAnswers": ["Ag", "Fe", "Gd"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Causative: \"I had my car ___",
+      "correctAnswer": "serviced",
+      "wrongAnswers": ["service", "to service", "servicing"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which idiom means \"to improvise\"?",
+      "correctAnswer": "Play it by ear",
+      "wrongAnswers": ["Beat around the bush", "Bite the bullet", "Break the ice"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the deepest ocean trench?",
+      "correctAnswer": "Mariana",
+      "wrongAnswers": ["Philippine", "Tonga", "Kermadec"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Mixed conditional: \"If I ___ you, I would have apologized.\"",
+      "correctAnswer": "were",
+      "wrongAnswers": ["I would have apologized\".", "am", "was"],
+      "explanation": "In mixed conditionals, 'If I were you' is used with a past perfect conditional like 'I would have apologized'."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to compensate for\"?",
+      "correctAnswer": "Make up for",
+      "wrongAnswers": ["Get over with", "Do away with", "Look down on"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the largest desert? (excluding Antarctica)",
+      "correctAnswer": "Sahara",
+      "wrongAnswers": ["Gobi", "Kalahari", "Sonoran"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Choose the correct participle clause: \"___ the door, he left.\"",
+      "correctAnswer": "Having opened",
+      "wrongAnswers": ["he left\".", "Opening", "Opened"],
+      "explanation": "The correct participle clause is 'Having opened the door', showing that the action was completed before he left."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which Shakespeare play has \"To be or not to be\"?",
+      "correctAnswer": "Hamlet",
+      "wrongAnswers": ["Macbeth", "Othello", "Julius Caesar"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What particle is emitted in alpha decay?",
+      "correctAnswer": "Helium nucleus",
+      "wrongAnswers": ["Electron", "Proton", "Neutron"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrasal verb means \"to tolerate\"?",
+      "correctAnswer": "Put up with",
+      "wrongAnswers": ["Come up with", "Get on with", "Do away with"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion after \"so\": \"So difficult ___ that few understood\".",
+      "correctAnswer": "was it",
+      "wrongAnswers": ["it was", "was", "is it"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is Machu Picchu?",
+      "correctAnswer": "Peruvian citadel",
+      "wrongAnswers": ["Egyptian temple", "Mexican pyramid", "Indian palace"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to reluctantly agree\"?",
+      "correctAnswer": "Bite the bullet",
+      "wrongAnswers": ["Hit the nail on the head", "Cost an arm and a leg", "Let the cat out of the bag"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which word completes: \"I wish I ___ richer\"?",
+      "correctAnswer": "were",
+      "wrongAnswers": ["am", "was", "would be"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the subjunctive form?",
+      "correctAnswer": "It's essential he be informed.",
+      "wrongAnswers": ["It's essential he is informed.", "It's essential he will be informed.", "It's essential he to be informed."],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to extinguish\"?",
+      "correctAnswer": "Put out",
+      "wrongAnswers": ["Put off", "Put away", "Put down"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasília",
+      "wrongAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion: \"Never ___ such nonsense\".",
+      "correctAnswer": "have I heard",
+      "wrongAnswers": ["I heard", "I hear", "do I hear"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"The Republic\"?",
+      "correctAnswer": "Plato",
+      "wrongAnswers": ["Aristotle", "Socrates", "Descartes"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the chemical symbol for gold?",
+      "correctAnswer": "Au",
+      "wrongAnswers": ["Ag", "Fe", "Gd"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Causative: \"I had my car ___",
+      "correctAnswer": "serviced",
+      "wrongAnswers": ["service", "to service", "servicing"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which idiom means \"to improvise\"?",
+      "correctAnswer": "Play it by ear",
+      "wrongAnswers": ["Beat around the bush", "Bite the bullet", "Break the ice"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the deepest ocean trench?",
+      "correctAnswer": "Mariana",
+      "wrongAnswers": ["Philippine", "Tonga", "Kermadec"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Mixed conditional: \"If I ___ you, I would have apologized.\"",
+      "correctAnswer": "were",
+      "wrongAnswers": ["I would have apologized\".", "am", "was"],
+      "explanation": "In mixed conditionals, 'If I were you' is used with a past perfect conditional like 'I would have apologized'."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to compensate for\"?",
+      "correctAnswer": "Make up for",
+      "wrongAnswers": ["Get over with", "Do away with", "Look down on"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the largest desert? (excluding Antarctica)",
+      "correctAnswer": "Sahara",
+      "wrongAnswers": ["Gobi", "Kalahari", "Sonoran"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Choose the correct participle clause: \"___ the door, he left.\"",
+      "correctAnswer": "Having opened",
+      "wrongAnswers": ["he left\".", "Opening", "Opened"],
+      "explanation": "The correct participle clause is 'Having opened the door', showing that the action was completed before he left."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which Shakespeare play has \"To be or not to be\"?",
+      "correctAnswer": "Hamlet",
+      "wrongAnswers": ["Macbeth", "Othello", "Julius Caesar"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What particle is emitted in alpha decay?",
+      "correctAnswer": "Helium nucleus",
+      "wrongAnswers": ["Electron", "Proton", "Neutron"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrasal verb means \"to tolerate\"?",
+      "correctAnswer": "Put up with",
+      "wrongAnswers": ["Come up with", "Get on with", "Do away with"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion after \"so\": \"So difficult ___ that few understood\".",
+      "correctAnswer": "was it",
+      "wrongAnswers": ["it was", "was", "is it"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is Machu Picchu?",
+      "correctAnswer": "Peruvian citadel",
+      "wrongAnswers": ["Egyptian temple", "Mexican pyramid", "Indian palace"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to reluctantly agree\"?",
+      "correctAnswer": "Bite the bullet",
+      "wrongAnswers": ["Hit the nail on the head", "Cost an arm and a leg", "Let the cat out of the bag"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which word completes: \"I wish I ___ richer\"?",
+      "correctAnswer": "were",
+      "wrongAnswers": ["am", "was", "would be"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the subjunctive form?",
+      "correctAnswer": "It's essential he be informed.",
+      "wrongAnswers": ["It's essential he is informed.", "It's essential he will be informed.", "It's essential he to be informed."],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to extinguish\"?",
+      "correctAnswer": "Put out",
+      "wrongAnswers": ["Put off", "Put away", "Put down"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasília",
+      "wrongAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion: \"Never ___ such nonsense\".",
+      "correctAnswer": "have I heard",
+      "wrongAnswers": ["I heard", "I hear", "do I hear"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"The Republic\"?",
+      "correctAnswer": "Plato",
+      "wrongAnswers": ["Aristotle", "Socrates", "Descartes"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the chemical symbol for gold?",
+      "correctAnswer": "Au",
+      "wrongAnswers": ["Ag", "Fe", "Gd"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Causative: \"I had my car ___",
+      "correctAnswer": "serviced",
+      "wrongAnswers": ["service", "to service", "servicing"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which idiom means \"to improvise\"?",
+      "correctAnswer": "Play it by ear",
+      "wrongAnswers": ["Beat around the bush", "Bite the bullet", "Break the ice"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the deepest ocean trench?",
+      "correctAnswer": "Mariana",
+      "wrongAnswers": ["Philippine", "Tonga", "Kermadec"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Mixed conditional: \"If I ___ you, I would have apologized.\"",
+      "correctAnswer": "were",
+      "wrongAnswers": ["I would have apologized\".", "am", "was"],
+      "explanation": "In mixed conditionals, 'If I were you' is used with a past perfect conditional like 'I would have apologized'."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to compensate for\"?",
+      "correctAnswer": "Make up for",
+      "wrongAnswers": ["Get over with", "Do away with", "Look down on"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the largest desert? (excluding Antarctica)",
+      "correctAnswer": "Sahara",
+      "wrongAnswers": ["Gobi", "Kalahari", "Sonoran"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Choose the correct participle clause: \"___ the door, he left.\"",
+      "correctAnswer": "Having opened",
+      "wrongAnswers": ["he left\".", "Opening", "Opened"],
+      "explanation": "The correct participle clause is 'Having opened the door', showing that the action was completed before he left."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which Shakespeare play has \"To be or not to be\"?",
+      "correctAnswer": "Hamlet",
+      "wrongAnswers": ["Macbeth", "Othello", "Julius Caesar"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What particle is emitted in alpha decay?",
+      "correctAnswer": "Helium nucleus",
+      "wrongAnswers": ["Electron", "Proton", "Neutron"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrasal verb means \"to tolerate\"?",
+      "correctAnswer": "Put up with",
+      "wrongAnswers": ["Come up with", "Get on with", "Do away with"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion after \"so\": \"So difficult ___ that few understood\".",
+      "correctAnswer": "was it",
+      "wrongAnswers": ["it was", "was", "is it"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is Machu Picchu?",
+      "correctAnswer": "Peruvian citadel",
+      "wrongAnswers": ["Egyptian temple", "Mexican pyramid", "Indian palace"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to reluctantly agree\"?",
+      "correctAnswer": "Bite the bullet",
+      "wrongAnswers": ["Hit the nail on the head", "Cost an arm and a leg", "Let the cat out of the bag"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which word completes: \"I wish I ___ richer\"?",
+      "correctAnswer": "were",
+      "wrongAnswers": ["am", "was", "would be"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the subjunctive form?",
+      "correctAnswer": "It's essential he be informed.",
+      "wrongAnswers": ["It's essential he is informed.", "It's essential he will be informed.", "It's essential he to be informed."],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to extinguish\"?",
+      "correctAnswer": "Put out",
+      "wrongAnswers": ["Put off", "Put away", "Put down"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasília",
+      "wrongAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion: \"Never ___ such nonsense\".",
+      "correctAnswer": "have I heard",
+      "wrongAnswers": ["I heard", "I hear", "do I hear"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"The Republic\"?",
+      "correctAnswer": "Plato",
+      "wrongAnswers": ["Aristotle", "Socrates", "Descartes"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the chemical symbol for gold?",
+      "correctAnswer": "Au",
+      "wrongAnswers": ["Ag", "Fe", "Gd"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Causative: \"I had my car ___",
+      "correctAnswer": "serviced",
+      "wrongAnswers": ["service", "to service", "servicing"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which idiom means \"to improvise\"?",
+      "correctAnswer": "Play it by ear",
+      "wrongAnswers": ["Beat around the bush", "Bite the bullet", "Break the ice"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the deepest ocean trench?",
+      "correctAnswer": "Mariana",
+      "wrongAnswers": ["Philippine", "Tonga", "Kermadec"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Mixed conditional: \"If I ___ you, I would have apologized.\"",
+      "correctAnswer": "were",
+      "wrongAnswers": ["I would have apologized\".", "am", "was"],
+      "explanation": "In mixed conditionals, 'If I were you' is used with a past perfect conditional like 'I would have apologized'."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to compensate for\"?",
+      "correctAnswer": "Make up for",
+      "wrongAnswers": ["Get over with", "Do away with", "Look down on"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the largest desert? (excluding Antarctica)",
+      "correctAnswer": "Sahara",
+      "wrongAnswers": ["Gobi", "Kalahari", "Sonoran"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Choose the correct participle clause: \"___ the door, he left.\"",
+      "correctAnswer": "Having opened",
+      "wrongAnswers": ["he left\".", "Opening", "Opened"],
+      "explanation": "The correct participle clause is 'Having opened the door', showing that the action was completed before he left."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which Shakespeare play has \"To be or not to be\"?",
+      "correctAnswer": "Hamlet",
+      "wrongAnswers": ["Macbeth", "Othello", "Julius Caesar"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What particle is emitted in alpha decay?",
+      "correctAnswer": "Helium nucleus",
+      "wrongAnswers": ["Electron", "Proton", "Neutron"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrasal verb means \"to tolerate\"?",
+      "correctAnswer": "Put up with",
+      "wrongAnswers": ["Come up with", "Get on with", "Do away with"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion after \"so\": \"So difficult ___ that few understood\".",
+      "correctAnswer": "was it",
+      "wrongAnswers": ["it was", "was", "is it"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is Machu Picchu?",
+      "correctAnswer": "Peruvian citadel",
+      "wrongAnswers": ["Egyptian temple", "Mexican pyramid", "Indian palace"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to reluctantly agree\"?",
+      "correctAnswer": "Bite the bullet",
+      "wrongAnswers": ["Hit the nail on the head", "Cost an arm and a leg", "Let the cat out of the bag"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which word completes: \"I wish I ___ richer\"?",
+      "correctAnswer": "were",
+      "wrongAnswers": ["am", "was", "would be"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the subjunctive form?",
+      "correctAnswer": "It's essential he be informed.",
+      "wrongAnswers": ["It's essential he is informed.", "It's essential he will be informed.", "It's essential he to be informed."],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to extinguish\"?",
+      "correctAnswer": "Put out",
+      "wrongAnswers": ["Put off", "Put away", "Put down"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the capital of Brazil?",
+      "correctAnswer": "Brasília",
+      "wrongAnswers": ["Rio de Janeiro", "São Paulo", "Salvador"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion: \"Never ___ such nonsense\".",
+      "correctAnswer": "have I heard",
+      "wrongAnswers": ["I heard", "I hear", "do I hear"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"The Republic\"?",
+      "correctAnswer": "Plato",
+      "wrongAnswers": ["Aristotle", "Socrates", "Descartes"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the chemical symbol for gold?",
+      "correctAnswer": "Au",
+      "wrongAnswers": ["Ag", "Fe", "Gd"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Causative: \"I had my car ___",
+      "correctAnswer": "serviced",
+      "wrongAnswers": ["service", "to service", "servicing"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which idiom means \"to improvise\"?",
+      "correctAnswer": "Play it by ear",
+      "wrongAnswers": ["Beat around the bush", "Bite the bullet", "Break the ice"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the deepest ocean trench?",
+      "correctAnswer": "Mariana",
+      "wrongAnswers": ["Philippine", "Tonga", "Kermadec"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Mixed conditional: \"If I ___ you, I would have apologized.\"",
+      "correctAnswer": "were",
+      "wrongAnswers": ["I would have apologized\".", "am", "was"],
+      "explanation": "In mixed conditionals, 'If I were you' is used with a past perfect conditional like 'I would have apologized'."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to compensate for\"?",
+      "correctAnswer": "Make up for",
+      "wrongAnswers": ["Get over with", "Do away with", "Look down on"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is the largest desert? (excluding Antarctica)",
+      "correctAnswer": "Sahara",
+      "wrongAnswers": ["Gobi", "Kalahari", "Sonoran"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Choose the correct participle clause: \"___ the door, he left.\"",
+      "correctAnswer": "Having opened",
+      "wrongAnswers": ["he left\".", "Opening", "Opened"],
+      "explanation": "The correct participle clause is 'Having opened the door', showing that the action was completed before he left."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which Shakespeare play has \"To be or not to be\"?",
+      "correctAnswer": "Hamlet",
+      "wrongAnswers": ["Macbeth", "Othello", "Julius Caesar"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What particle is emitted in alpha decay?",
+      "correctAnswer": "Helium nucleus",
+      "wrongAnswers": ["Electron", "Proton", "Neutron"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrasal verb means \"to tolerate\"?",
+      "correctAnswer": "Put up with",
+      "wrongAnswers": ["Come up with", "Get on with", "Do away with"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Inversion after \"so\": \"So difficult ___ that few understood\".",
+      "correctAnswer": "was it",
+      "wrongAnswers": ["it was", "was", "is it"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "What is Machu Picchu?",
+      "correctAnswer": "Peruvian citadel",
+      "wrongAnswers": ["Egyptian temple", "Mexican pyramid", "Indian palace"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"to reluctantly agree\"?",
+      "correctAnswer": "Bite the bullet",
+      "wrongAnswers": ["Hit the nail on the head", "Cost an arm and a leg", "Let the cat out of the bag"],
+      "explanation": "This is the correct structure for this grammar point or vocabulary usage."
+    },
+    "metadata": {
+      "englishLevel": "B2",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "advanced grammar",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 45,
+      "difficultyMultiplier": 1.4
+    }
+  }
+]

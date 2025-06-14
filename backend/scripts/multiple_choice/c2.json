@@ -1,0 +1,2102 @@
+[
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Were I to know, I would tell.",
+      "wrongAnswers": ["If I were know, I would tell.", "If I would know, I told.", "Were I know, I tell."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"penultimate\" from \"ultimate\"?",
+      "correctAnswer": "Second last vs. last",
+      "wrongAnswers": ["First vs. last", "Third last vs. second last", "Last vs. first"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"Being and Time\"?",
+      "correctAnswer": "Heidegger",
+      "wrongAnswers": ["Sartre", "Husserl", "Derrida"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Riemann Hypothesis?",
+      "correctAnswer": "Prime numbers",
+      "wrongAnswers": ["Complex analysis", "Topology", "Group theory"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is obsolete?",
+      "correctAnswer": "If it please the court",
+      "wrongAnswers": ["If it pleases the court", "If it pleased the court", "If it will please the court"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In quantum physics, what is 'spooky action at a distance'?",
+      "correctAnswer": "Entanglement",
+      "wrongAnswers": ["Superposition", "Decoherence", "Tunneling"],
+      "explanation": "The term 'spooky action at a distance' was coined by Einstein to describe quantum entanglement, where particles remain connected so that actions on one affect the other, even at great distances."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase demonstrates litotes?",
+      "correctAnswer": "Not bad",
+      "wrongAnswers": ["Excellent", "Terrible", "Average"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is \"apophasis\"?",
+      "correctAnswer": "Denial while stating",
+      "wrongAnswers": ["Understatement", "Overstatement", "False analogy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which ethicist proposed the \"trolley problem\"?",
+      "correctAnswer": "Thomson",
+      "wrongAnswers": ["Foot", "Singer", "Sandel"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is Bose-Einstein Condensate?",
+      "correctAnswer": "Fifth state of matter",
+      "wrongAnswers": ["Plasma variant", "Superconductor", "Dark matter"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"qualia\"?",
+      "correctAnswer": "Subjective experience",
+      "wrongAnswers": ["Objective reality", "Moral intuition", "Logical necessity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows deontic modality?",
+      "correctAnswer": "You must leave.",
+      "wrongAnswers": ["It must be cold.", "She must be clever.", "They must arrive soon."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the P vs NP problem?",
+      "correctAnswer": "Computational complexity",
+      "wrongAnswers": ["Quantum algorithms", "Cryptography", "AI ethics"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The silence was deafening\"?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": ["Synecdoche", "Anaphora", "Zeugma"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Were I to know, I would tell.",
+      "wrongAnswers": ["If I were know, I would tell.", "If I would know, I told.", "Were I know, I tell."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"penultimate\" from \"ultimate\"?",
+      "correctAnswer": "Second last vs. last",
+      "wrongAnswers": ["First vs. last", "Third last vs. second last", "Last vs. first"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"Being and Time\"?",
+      "correctAnswer": "Heidegger",
+      "wrongAnswers": ["Sartre", "Husserl", "Derrida"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Riemann Hypothesis?",
+      "correctAnswer": "Prime numbers",
+      "wrongAnswers": ["Complex analysis", "Topology", "Group theory"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is obsolete?",
+      "correctAnswer": "If it please the court",
+      "wrongAnswers": ["If it pleases the court", "If it pleased the court", "If it will please the court"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase demonstrates litotes?",
+      "correctAnswer": "Not bad",
+      "wrongAnswers": ["Excellent", "Terrible", "Average"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is \"apophasis\"?",
+      "correctAnswer": "Denial while stating",
+      "wrongAnswers": ["Understatement", "Overstatement", "False analogy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which ethicist proposed the \"trolley problem\"?",
+      "correctAnswer": "Thomson",
+      "wrongAnswers": ["Foot", "Singer", "Sandel"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is Bose-Einstein Condensate?",
+      "correctAnswer": "Fifth state of matter",
+      "wrongAnswers": ["Plasma variant", "Superconductor", "Dark matter"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"qualia\"?",
+      "correctAnswer": "Subjective experience",
+      "wrongAnswers": ["Objective reality", "Moral intuition", "Logical necessity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows deontic modality?",
+      "correctAnswer": "You must leave.",
+      "wrongAnswers": ["It must be cold.", "She must be clever.", "They must arrive soon."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the P vs NP problem?",
+      "correctAnswer": "Computational complexity",
+      "wrongAnswers": ["Quantum algorithms", "Cryptography", "AI ethics"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The silence was deafening\"?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": ["Synecdoche", "Anaphora", "Zeugma"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In biochemistry, What is allostery??",
+      "correctAnswer": "Enzyme regulation",
+      "wrongAnswers": ["what is allostery?", "Protein synthesis", "DNA replication"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Were I to know, I would tell.",
+      "wrongAnswers": ["If I were know, I would tell.", "If I would know, I told.", "Were I know, I tell."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"penultimate\" from \"ultimate\"?",
+      "correctAnswer": "Second last vs. last",
+      "wrongAnswers": ["First vs. last", "Third last vs. second last", "Last vs. first"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"Being and Time\"?",
+      "correctAnswer": "Heidegger",
+      "wrongAnswers": ["Sartre", "Husserl", "Derrida"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Riemann Hypothesis?",
+      "correctAnswer": "Prime numbers",
+      "wrongAnswers": ["Complex analysis", "Topology", "Group theory"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is obsolete?",
+      "correctAnswer": "If it please the court",
+      "wrongAnswers": ["If it pleases the court", "If it pleased the court", "If it will please the court"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In game theory, what is the Nash equilibrium?",
+      "correctAnswer": "Optimal strategy",
+      "wrongAnswers": ["Dominant strategy", "Mixed strategy", "Zero-sum outcome"],
+      "explanation": "A Nash equilibrium occurs when all players choose strategies that are optimal given the strategies of others—no one has an incentive to deviate."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In jurisprudence, what is 'habeas corpus'?",
+      "correctAnswer": "Body protection",
+      "wrongAnswers": ["Right to silence", "Property rights", "Free speech"],
+      "explanation": "Habeas corpus is a legal action that protects against unlawful detention by requiring a person under arrest to be brought before a judge."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In biochemistry, what is allostery?",
+      "correctAnswer": "Enzyme regulation",
+      "wrongAnswers": ["Protein synthesis", "DNA replication", "Cell signaling"],
+      "explanation": "Allostery refers to the regulation of a protein’s activity through binding at a site other than the active site, often altering its function."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In quantum physics, what is 'spooky action at a distance'?",
+      "correctAnswer": "Entanglement",
+      "wrongAnswers": ["Superposition", "Decoherence", "Tunneling"],
+      "explanation": "Einstein used 'spooky action at a distance' to describe quantum entanglement, where two particles remain correlated even across vast distances."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase demonstrates litotes?",
+      "correctAnswer": "Not bad",
+      "wrongAnswers": ["Excellent", "Terrible", "Average"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is \"apophasis\"?",
+      "correctAnswer": "Denial while stating",
+      "wrongAnswers": ["Understatement", "Overstatement", "False analogy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which ethicist proposed the \"trolley problem\"?",
+      "correctAnswer": "Thomson",
+      "wrongAnswers": ["Foot", "Singer", "Sandel"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is Bose-Einstein Condensate?",
+      "correctAnswer": "Fifth state of matter",
+      "wrongAnswers": ["Plasma variant", "Superconductor", "Dark matter"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In game theory, What is \"nash equilibrium\"??",
+      "correctAnswer": "Optimal strategy",
+      "wrongAnswers": ["what is \"Nash equilibrium\"?", "Dominant strategy", "Mixed strategy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"qualia\"?",
+      "correctAnswer": "Subjective experience",
+      "wrongAnswers": ["Objective reality", "Moral intuition", "Logical necessity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In jurisprudence, What is \"habeas corpus\"??",
+      "correctAnswer": "Right to silence",
+      "wrongAnswers": ["what is \"habeas corpus\"?", "Body protection", "Property rights"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows deontic modality?",
+      "correctAnswer": "You must leave.",
+      "wrongAnswers": ["It must be cold.", "She must be clever.", "They must arrive soon."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the P vs NP problem?",
+      "correctAnswer": "Computational complexity",
+      "wrongAnswers": ["Quantum algorithms", "Cryptography", "AI ethics"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The silence was deafening\"?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": ["Synecdoche", "Anaphora", "Zeugma"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In biochemistry, What is allostery??",
+      "correctAnswer": "Enzyme regulation",
+      "wrongAnswers": ["what is allostery?", "Protein synthesis", "DNA replication"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Were I to know, I would tell.",
+      "wrongAnswers": ["If I were know, I would tell.", "If I would know, I told.", "Were I know, I tell."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"penultimate\" from \"ultimate\"?",
+      "correctAnswer": "Second last vs. last",
+      "wrongAnswers": ["First vs. last", "Third last vs. second last", "Last vs. first"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"Being and Time\"?",
+      "correctAnswer": "Heidegger",
+      "wrongAnswers": ["Sartre", "Husserl", "Derrida"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Riemann Hypothesis?",
+      "correctAnswer": "Prime numbers",
+      "wrongAnswers": ["Complex analysis", "Topology", "Group theory"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is obsolete?",
+      "correctAnswer": "If it please the court",
+      "wrongAnswers": ["If it pleases the court", "If it pleased the court", "If it will please the court"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In quantum physics, What is \"spooky action at a distance\"??",
+      "correctAnswer": "Entanglement",
+      "wrongAnswers": ["what is \"spooky action at a distance\"?", "Superposition", "Decoherence"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase demonstrates litotes?",
+      "correctAnswer": "Not bad",
+      "wrongAnswers": ["Excellent", "Terrible", "Average"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is \"apophasis\"?",
+      "correctAnswer": "Denial while stating",
+      "wrongAnswers": ["Understatement", "Overstatement", "False analogy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which ethicist proposed the \"trolley problem\"?",
+      "correctAnswer": "Thomson",
+      "wrongAnswers": ["Foot", "Singer", "Sandel"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is Bose-Einstein Condensate?",
+      "correctAnswer": "Fifth state of matter",
+      "wrongAnswers": ["Plasma variant", "Superconductor", "Dark matter"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In game theory, What is \"nash equilibrium\"??",
+      "correctAnswer": "Optimal strategy",
+      "wrongAnswers": ["what is \"Nash equilibrium\"?", "Dominant strategy", "Mixed strategy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"qualia\"?",
+      "correctAnswer": "Subjective experience",
+      "wrongAnswers": ["Objective reality", "Moral intuition", "Logical necessity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In jurisprudence, What is \"habeas corpus\"??",
+      "correctAnswer": "Right to silence",
+      "wrongAnswers": ["what is \"habeas corpus\"?", "Body protection", "Property rights"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows deontic modality?",
+      "correctAnswer": "You must leave.",
+      "wrongAnswers": ["It must be cold.", "She must be clever.", "They must arrive soon."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the P vs NP problem?",
+      "correctAnswer": "Computational complexity",
+      "wrongAnswers": ["Quantum algorithms", "Cryptography", "AI ethics"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In game theory, What is \"nash equilibrium\"??",
+      "correctAnswer": "Optimal strategy",
+      "wrongAnswers": ["what is \"Nash equilibrium\"?", "Dominant strategy", "Mixed strategy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The silence was deafening\"?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": ["Synecdoche", "Anaphora", "Zeugma"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In biochemistry, What is allostery??",
+      "correctAnswer": "Enzyme regulation",
+      "wrongAnswers": ["what is allostery?", "Protein synthesis", "DNA replication"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which syntactic structure is correct?",
+      "correctAnswer": "Were I to know, I would tell.",
+      "wrongAnswers": ["If I were know, I would tell.", "If I would know, I told.", "Were I know, I tell."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What distinguishes \"penultimate\" from \"ultimate\"?",
+      "correctAnswer": "Second last vs. last",
+      "wrongAnswers": ["First vs. last", "Third last vs. second last", "Last vs. first"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which philosopher wrote \"Being and Time\"?",
+      "correctAnswer": "Heidegger",
+      "wrongAnswers": ["Sartre", "Husserl", "Derrida"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Riemann Hypothesis?",
+      "correctAnswer": "Prime numbers",
+      "wrongAnswers": ["Complex analysis", "Topology", "Group theory"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which subjunctive is obsolete?",
+      "correctAnswer": "If it please the court",
+      "wrongAnswers": ["If it pleases the court", "If it pleased the court", "If it will please the court"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In quantum physics, What is \"spooky action at a distance\"??",
+      "correctAnswer": "Entanglement",
+      "wrongAnswers": ["what is \"spooky action at a distance\"?", "Superposition", "Decoherence"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase demonstrates litotes?",
+      "correctAnswer": "Not bad",
+      "wrongAnswers": ["Excellent", "Terrible", "Average"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is \"apophasis\"?",
+      "correctAnswer": "Denial while stating",
+      "wrongAnswers": ["Understatement", "Overstatement", "False analogy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which ethicist proposed the \"trolley problem\"?",
+      "correctAnswer": "Thomson",
+      "wrongAnswers": ["Foot", "Singer", "Sandel"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is Bose-Einstein Condensate?",
+      "correctAnswer": "Fifth state of matter",
+      "wrongAnswers": ["Plasma variant", "Superconductor", "Dark matter"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which collocation is most idiomatic?",
+      "correctAnswer": "Utterly flabbergasted",
+      "wrongAnswers": ["Very surprised", "Quite shocked", "Really amazed"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In game theory, What is \"nash equilibrium\"??",
+      "correctAnswer": "Optimal strategy",
+      "wrongAnswers": ["what is \"Nash equilibrium\"?", "Dominant strategy", "Mixed strategy"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence uses chiasmus?",
+      "correctAnswer": "Ask not what your country can do for you...",
+      "wrongAnswers": ["The world will little note...", "Four score and seven years ago...", "Government of the people..."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the Kardashev Scale?",
+      "correctAnswer": "Civilization advancement",
+      "wrongAnswers": ["Planetary classification", "Cosmic distance", "Temporal measurement"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which term describes \"qualia\"?",
+      "correctAnswer": "Subjective experience",
+      "wrongAnswers": ["Objective reality", "Moral intuition", "Logical necessity"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which phrase shows deontic modality?",
+      "correctAnswer": "You must leave.",
+      "wrongAnswers": ["It must be cold.", "She must be clever.", "They must arrive soon."],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "What is the P vs NP problem?",
+      "correctAnswer": "Computational complexity",
+      "wrongAnswers": ["Quantum algorithms", "Cryptography", "AI ethics"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "Which rhetorical device: \"The silence was deafening\"?",
+      "correctAnswer": "Oxymoron",
+      "wrongAnswers": ["Synecdoche", "Anaphora", "Zeugma"],
+      "explanation": "This sentence demonstrates advanced grammar, vocabulary, or logic typically expected at C1/C2 levels."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  },
+  {
+    "content": {
+      "question": "In biochemistry, what is allostery?",
+      "correctAnswer": "Enzyme regulation",
+      "wrongAnswers": ["Protein synthesis", "DNA replication", "Cell signaling"],
+      "explanation": "Allostery refers to the regulation of an enzyme or other protein by binding an effector molecule at a site other than the enzyme's active site."
+    },
+    "metadata": {
+      "englishLevel": "C2",
+      "difficulty": "hard",
+      "category": "grammar",
+      "subCategory": "advanced usage",
+      "tags": ["grammar", "syntax", "logic"],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 35,
+      "timeLimit": 55,
+      "difficultyMultiplier": 1.6
+    }
+  }
+]

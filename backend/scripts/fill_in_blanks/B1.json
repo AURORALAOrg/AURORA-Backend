@@ -1,0 +1,2102 @@
+[
+  {
+    "content": {
+      "sentence": "By the time we arrived, the movie ___ already started.",
+      "correctAnswer": "had",
+      "hint": "Use the past perfect tense for actions completed before a past point.",
+      "explanation": "We use 'had started' because it happened before 'we arrived'."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "This time tomorrow, I ___ lying on the beach.",
+      "correctAnswer": "will be",
+      "hint": "Use future continuous to describe an ongoing action in the future.",
+      "explanation": "Use 'will be' + verb-ing to describe future actions in progress."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By 2030, scientists ___ discovered new energy sources.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect for something completed before a specific future time.",
+      "explanation": "Future perfect is formed with 'will have' + past participle."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By sunset, we ___ reached the summit.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect tense for completed actions by a certain future time.",
+      "explanation": "'Will have' + past participle is used to show completion before sunset."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By December, she ___ completed the training.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to show an action completed before a future time.",
+      "explanation": "Future perfect shows actions that will be done before December."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By tomorrow, they ___ painted the house.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to talk about an action completed before a future point.",
+      "explanation": "Use 'will have' + past participle to indicate completion before tomorrow."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By next year, I ___ finished my studies.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to talk about something completed before a specific future time.",
+      "explanation": "'Will have' is used with a future time reference to show completion."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If it rains, we ___ cancel the picnic.",
+      "correctAnswer": "will",
+      "hint": "Use 'will' in the result clause of a first conditional sentence.",
+      "explanation": "First conditional uses 'if + present simple' and 'will' in the main clause."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ in London since 2018.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The report ___ by Friday.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ each other for years.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He wishes he ___ more time.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ never seen such beauty.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ be working late tonight.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The project ___ before deadline.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If I ___ you",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ discussing when interrupted.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The book ___ translated into 30 languages.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ dinner when lights went out.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ his mind by tomorrow.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The solution ___ yet.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ have studied more.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ rather you didn't smoke.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The documents ___ destroyed in fire.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ for three hours nonstop.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ living alone since college.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If she ___ earlier",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The bridge ___ constructed last year.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ our plans due to weather.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ be sleeping now.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ finished by 6 PM.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The cake ___ eaten before party.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ to move abroad.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ her keys somewhere.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ to the new policy.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ not have received message.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The museum ___ visited annually.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ working here since 2015.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If we ___ earlier",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The software ___ updated regularly.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ married next spring.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ be the manager now.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ our luggage at airport.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ have forgotten anniversary.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The decision ___ announced tomorrow.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ wish I knew the answer.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The letter ___ delivered yesterday.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ each other since childhood.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ have seen the warning.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ to postpone meeting.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ be exercising now.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ completed the course.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The problem ___ solved easily.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ painting house all day.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ in Berlin next month.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ not expecting guests.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By the time we arrived, the movie ___ already started.",
+      "correctAnswer": "had",
+      "hint": "Use the past perfect tense for actions completed before a past point.",
+      "explanation": "We use 'had started' because it happened before 'we arrived'."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "This time tomorrow, I ___ lying on the beach.",
+      "correctAnswer": "will be",
+      "hint": "Use future continuous to describe an ongoing action in the future.",
+      "explanation": "Use 'will be' + verb-ing to describe future actions in progress."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By 2030, scientists ___ discovered new energy sources.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect for something completed before a specific future time.",
+      "explanation": "Future perfect is formed with 'will have' + past participle."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By sunset, we ___ reached the summit.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect tense for completed actions by a certain future time.",
+      "explanation": "'Will have' + past participle is used to show completion before sunset."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By December, she ___ completed the training.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to show an action completed before a future time.",
+      "explanation": "Future perfect shows actions that will be done before December."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By tomorrow, they ___ painted the house.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to talk about an action completed before a future point.",
+      "explanation": "Use 'will have' + past participle to indicate completion before tomorrow."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "By next year, I ___ finished my studies.",
+      "correctAnswer": "will have",
+      "hint": "Use future perfect to talk about something completed before a specific future time.",
+      "explanation": "'Will have' is used with a future time reference to show completion."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If it rains, we ___ cancel the picnic.",
+      "correctAnswer": "will",
+      "hint": "Use 'will' in the result clause of a first conditional sentence.",
+      "explanation": "First conditional uses 'if + present simple' and 'will' in the main clause."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ in London since 2018.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The report ___ by Friday.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ each other for years.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ left his phone home.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The concert ___ sold out quickly.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ learning Spanish currently.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If he ___ harder",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The law ___ changed recently.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ traveling for months.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ be attending conference.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ found the missing file.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ not have meant offense.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The car ___ repaired now.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ visited Japan twice.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The message ___ misunderstood.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ known about problem.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ have completed task.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ adapting to changes.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ be giving presentation.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ wish you were here.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The team ___ training since morning.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ elected new leader.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ working remotely tomorrow.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ decided against it.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ have been delayed.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The data ___ analyzed thoroughly.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ studying all afternoon.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "If we ___ more time",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The system ___ upgraded next week.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ dating for two years.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ be flying to Rome.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ lost our way.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ not have heard alarm.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The novel ___ written in 1990s.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ lived here five years.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  },
+  {
+    "content": {
+      "sentence": "The mistake ___ corrected immediately.",
+      "correctAnswer": "has",
+      "hint": "Use the correct verb tense or auxiliary verb as needed.",
+      "explanation": "This form fits the tense and grammatical structure required in the sentence."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "B1"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 20,
+      "timeLimit": 40,
+      "difficultyMultiplier": 1.3
+    }
+  }
+]

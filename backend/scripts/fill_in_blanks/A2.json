@@ -1,0 +1,2102 @@
+[
+  {
+    "content": {
+      "sentence": "I ___ my homework when the phone rang.",
+      "correctAnswer": "was doing",
+      "hint": "Use the past continuous to show an ongoing action when something interrupted it.",
+      "explanation": "The past continuous tense 'was doing' is used for an action in progress when the phone rang (a simple past action)."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ dinner when guests arrived.",
+      "correctAnswer": "were having",
+      "hint": "Use past continuous for an action in progress in the past.",
+      "explanation": "'Were having' shows the action was ongoing when guests arrived."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ to London last summer.",
+      "correctAnswer": "went",
+      "hint": "Use the simple past for a completed action in the past.",
+      "explanation": "'Went' is the past tense of 'go' and indicates a completed past action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We usually ___ TV in evenings.",
+      "correctAnswer": "watch",
+      "hint": "Use the simple present for habitual actions.",
+      "explanation": "'Watch' fits the habitual nature of the action described."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ to be a doctor.",
+      "correctAnswer": "wants",
+      "hint": "Use the simple present to express desires or intentions.",
+      "explanation": "'Wants' is the correct form to indicate his current wish."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The children ___ playing outside now.",
+      "correctAnswer": "are",
+      "hint": "Use the present continuous form for a plural subject.",
+      "explanation": "'Are' is the correct auxiliary verb for 'they' in present continuous tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ never ___ sushi before.",
+      "correctAnswer": "have, eaten",
+      "hint": "Use present perfect tense.",
+      "explanation": "'Have eaten' is the correct present perfect form for 'I'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ going to visit Paris.",
+      "correctAnswer": "are",
+      "hint": "Use the 'be going to' form for plural subjects.",
+      "explanation": "'They are going to' is the correct future plan construction."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ better at math than me.",
+      "correctAnswer": "is",
+      "hint": "Use the correct 'to be' form for third-person singular.",
+      "explanation": "'Is' is used with 'she' in present tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ see the movie tonight.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb to show possibility.",
+      "explanation": "'Might' is used to express a possibility."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ his keys yesterday.",
+      "correctAnswer": "lost",
+      "hint": "Use the simple past form.",
+      "explanation": "'Lost' is the past tense of 'lose'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ you at the party last week.",
+      "correctAnswer": "saw",
+      "hint": "Use the past tense of 'see'.",
+      "explanation": "'Saw' is the simple past form of 'see'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The train ___ already left.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect for completed actions with 'already'.",
+      "explanation": "'Has' is used with third-person singular in present perfect."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ not like spicy food.",
+      "correctAnswer": "do",
+      "hint": "Use the correct auxiliary verb for negation.",
+      "explanation": "'Do not' is used with 'they' in present simple negative."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ to the beach tomorrow.",
+      "correctAnswer": "are going",
+      "hint": "Use the 'be going to' future form.",
+      "explanation": "'Are going' is correct for 'we' in expressing future plans."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ play tennis very well.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to show ability.",
+      "explanation": "'Can' expresses ability to do something."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ my breakfast yet.",
+      "correctAnswer": "haven't eaten",
+      "hint": "Use present perfect with 'yet'.",
+      "explanation": "'Haven't eaten' shows an action not completed up to now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The movie ___ start at 7 PM.",
+      "correctAnswer": "will",
+      "hint": "Use the future simple form.",
+      "explanation": "'Will' is the auxiliary for future events."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ moving to Canada.",
+      "correctAnswer": "are",
+      "hint": "Use present continuous tense.",
+      "explanation": "'Are moving' shows a plan in progress."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ a letter when I called.",
+      "correctAnswer": "was writing",
+      "hint": "Use past continuous tense.",
+      "explanation": "'Was writing' shows an action in progress at a past moment."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ find our way easily.",
+      "correctAnswer": "could",
+      "hint": "Use past modal verb for ability.",
+      "explanation": "'Could' is the past form of 'can'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ rather stay home.",
+      "correctAnswer": "would",
+      "hint": "Use 'would rather' for preference.",
+      "explanation": "'Would rather' shows preference."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ seen that movie twice.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect.",
+      "explanation": "'Have seen' shows experience."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The weather ___ getting colder.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous auxiliary verb.",
+      "explanation": "'Is getting' describes a current change."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ finished their project.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect auxiliary.",
+      "explanation": "'Have finished' is present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ speak three languages.",
+      "correctAnswer": "can",
+      "hint": "Use modal verb for ability.",
+      "explanation": "'Can' expresses the ability to do something."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ going shopping later.",
+      "correctAnswer": "are",
+      "hint": "Use correct form of 'be' for present continuous.",
+      "explanation": "'Are going' expresses future plan."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ to work by bus.",
+      "correctAnswer": "goes",
+      "hint": "Use present simple for third person.",
+      "explanation": "'Goes' is third person singular of 'go'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ forgotten your name.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect form.",
+      "explanation": "'Have forgotten' shows a past action relevant now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The dog ___ barking loudly.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous form.",
+      "explanation": "'Is barking' shows an ongoing action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ arrive by noon.",
+      "correctAnswer": "will",
+      "hint": "Use the future simple form.",
+      "explanation": "'Will arrive' indicates a future action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ lived here since 2020.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect tense.",
+      "explanation": "'Has lived' is used with 'since' to show duration."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ not believe the news.",
+      "correctAnswer": "could",
+      "hint": "Use a past modal for disbelief.",
+      "explanation": "'Could not' expresses past inability or disbelief."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ bought a new guitar.",
+      "correctAnswer": "has",
+      "hint": "Use the correct auxiliary for present perfect tense.",
+      "explanation": "Use 'has' with third person singular subjects in the present perfect."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ complete the puzzle.",
+      "correctAnswer": "will",
+      "hint": "Use a modal for future plans.",
+      "explanation": "'Will' indicates a future intention or promise."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ run five kilometers.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb for expressing ability.",
+      "explanation": "‘Can’ expresses physical ability in the present tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The clock ___ stopped working.",
+      "correctAnswer": "has",
+      "hint": "Use the present perfect tense auxiliary.",
+      "explanation": "‘Has’ is used with ‘stopped’ to form the present perfect tense for singular subjects."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ fixing his bicycle.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous auxiliary verb.",
+      "explanation": "'Is fixing' shows present continuous action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ studying for hours.",
+      "correctAnswer": "has been",
+      "hint": "Use the present perfect continuous tense.",
+      "explanation": "'Has been studying' shows an action that started in the past and continues now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ broken his phone.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect tense with 'he'.",
+      "explanation": "'Has broken' shows a recent event with present relevance."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ wash the dishes later.",
+      "correctAnswer": "will",
+      "hint": "Use future simple for a planned action.",
+      "explanation": "'Will wash' is used to talk about an action in the future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The cat ___ sleeping peacefully.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous tense with 'the cat'.",
+      "explanation": "'Is sleeping' is the present continuous form for third person singular."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ win the competition.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb to express possibility.",
+      "explanation": "'Might' shows that winning is possible but not certain."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ reading a mystery novel.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous form with 'she'.",
+      "explanation": "'Is reading' is used to describe what someone is doing right now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ travel next month.",
+      "correctAnswer": "will",
+      "hint": "Use a future tense modal verb.",
+      "explanation": "'Will travel' refers to a planned or likely event in the future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ not understand the joke.",
+      "correctAnswer": "did",
+      "hint": "Use past simple negative form.",
+      "explanation": "'Did not understand' is used for past events with 'did'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ found my lost wallet.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect with 'I'.",
+      "explanation": "'Have found' shows a past event with present relevance."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The sun ___ setting now.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous with singular subject.",
+      "explanation": "'Is setting' describes an action happening now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ built a new bridge.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect for recent completion.",
+      "explanation": "'Have built' shows a recently completed action with current relevance."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ prefer tea over coffee.",
+      "correctAnswer": "would",
+      "hint": "Use a modal verb to express preference.",
+      "explanation": "We use 'would prefer' to express a personal preference politely."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The flowers ___ watered daily.",
+      "correctAnswer": "are",
+      "hint": "Use the passive voice in present simple tense.",
+      "explanation": "'Are watered' is the passive form to show that something is done regularly."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ planning a surprise.",
+      "correctAnswer": "are",
+      "hint": "Use the present continuous tense.",
+      "explanation": "'Are planning' shows an action happening now or in the near future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ visited Japan twice.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect for life experience.",
+      "explanation": "'Has visited' shows an action that happened at an unspecified time in the past."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ buy a new car soon.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb to express possibility.",
+      "explanation": "'Might' is used to talk about something that is possible in the future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ cooking dinner now.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous with 'he'.",
+      "explanation": "'Is cooking' shows an action happening at the moment."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ meet you tomorrow.",
+      "correctAnswer": "will",
+      "hint": "Use future simple tense.",
+      "explanation": "'Will meet' is used for future plans or promises."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The store ___ closed early.",
+      "correctAnswer": "was",
+      "hint": "Use past simple passive voice.",
+      "explanation": "'Was closed' shows the action happened in the past to the store."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ been friends for years.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect tense with 'they'.",
+      "explanation": "'Have been' indicates a state that started in the past and continues to now."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ always late for class.",
+      "correctAnswer": "is",
+      "hint": "Use the present simple form of 'to be'.",
+      "explanation": "'Is always' shows a regular action or state using present simple."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ hear the music clearly.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to show ability.",
+      "explanation": "'Can hear' expresses the ability to do something in the present."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ paint beautiful pictures.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to express ability.",
+      "explanation": "The correct modal verb for expressing ability in the present is 'can'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ decide quickly.",
+      "correctAnswer": "must",
+      "hint": "Use a modal verb to show necessity.",
+      "explanation": "'Must' is used to indicate necessity or urgency."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ waiting for the bus.",
+      "correctAnswer": "is",
+      "hint": "Use present continuous tense.",
+      "explanation": "'Is' is the correct auxiliary verb for third-person singular in present continuous tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ eat vegetables daily.",
+      "correctAnswer": "usually",
+      "hint": "Insert a frequency adverb.",
+      "explanation": "'Usually' indicates a regular habit or routine action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The baby ___ stopped crying.",
+      "correctAnswer": "has",
+      "hint": "Use the correct auxiliary verb for present perfect tense.",
+      "explanation": "'Has' is used with third-person singular in the present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ clean the house weekly.",
+      "correctAnswer": "should",
+      "hint": "Use a modal verb to express a suggestion.",
+      "explanation": "'Should' is used for giving advice or suggestions."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ chosen a new dress.",
+      "correctAnswer": "has",
+      "hint": "Use the correct auxiliary for present perfect tense.",
+      "explanation": "In present perfect tense, 'has' is used with 'she' and the past participle 'chosen'."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ help you move.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to offer assistance.",
+      "explanation": "'Can' is used to offer help or express possibility."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ repaired his laptop.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect tense.",
+      "explanation": "'Has' is the auxiliary verb for third-person singular in present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ swim across the lake.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb for ability.",
+      "explanation": "'Can' expresses ability to do something."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The students ___ taking exams.",
+      "correctAnswer": "are",
+      "hint": "Use present continuous tense with plural subject.",
+      "explanation": "'Are' is the correct auxiliary verb for plural subjects in the present continuous tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ sell their old furniture.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb to express possibility.",
+      "explanation": "'Might' expresses a possibility or uncertain intention."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ forgotten her umbrella.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect form with correct auxiliary.",
+      "explanation": "Use 'has' with third-person singular subjects and the past participle."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ learn Spanish together.",
+      "correctAnswer": "will",
+      "hint": "Use a modal for future intention.",
+      "explanation": "'Will' expresses a decision or plan for the future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ not smoke anymore.",
+      "correctAnswer": "does",
+      "hint": "Use the auxiliary verb for present simple negation.",
+      "explanation": "Use 'does' for present simple negative with he/she/it."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ visited my grandparents.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect auxiliary.",
+      "explanation": "Use 'have' for first-person present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The team ___ practicing hard.",
+      "correctAnswer": "is",
+      "hint": "Use singular verb for collective noun.",
+      "explanation": "In British English, 'team' can be singular; in American English, it's treated as singular by default."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ buy fresh bread daily.",
+      "correctAnswer": "usually",
+      "hint": "Use a frequency adverb.",
+      "explanation": "'Usually' is used for actions that happen regularly."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ write a novel.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb for possibility.",
+      "explanation": "'Might' suggests possibility or intention."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ seen that show already.",
+      "correctAnswer": "have",
+      "hint": "Use present perfect auxiliary.",
+      "explanation": "Use 'have' with 'we' in present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ drive to work.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to express ability.",
+      "explanation": "'Can' is a modal verb used to indicate ability or permission."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ answer the question.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to express ability.",
+      "explanation": "'Can' is used to show that someone is able to do something."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The birds ___ flown south.",
+      "correctAnswer": "have",
+      "hint": "Use the correct auxiliary for present perfect tense.",
+      "explanation": "Use 'have' with plural subjects in the present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ cook dinner tonight.",
+      "correctAnswer": "will",
+      "hint": "Use a modal to talk about future plans.",
+      "explanation": "'Will' expresses a future action or decision."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ work in a hospital.",
+      "correctAnswer": "does",
+      "hint": "Use present simple for third person singular.",
+      "explanation": "'Does' is the correct auxiliary verb for 'she' in questions or emphasis."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ fix the roof soon.",
+      "correctAnswer": "will",
+      "hint": "Use a future modal verb.",
+      "explanation": "'Will' is used to indicate a future intention."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ bought a new guitar.",
+      "correctAnswer": "has",
+      "hint": "Use the correct auxiliary for present perfect tense.",
+      "explanation": "Use 'has' with third person singular subjects in the present perfect."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ complete the puzzle.",
+      "correctAnswer": "will",
+      "hint": "Use a modal for future plans.",
+      "explanation": "'Will' indicates a future intention or promise."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The river ___ flooded recently.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect with a singular noun.",
+      "explanation": "'Has' is used with singular nouns in present perfect tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ play chess weekly.",
+      "correctAnswer": "do",
+      "hint": "Use present simple for plural subjects.",
+      "explanation": "'Do' is used with plural subjects in the present simple tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They ___ adopt a puppy.",
+      "correctAnswer": "might",
+      "hint": "Use a modal verb to express possibility.",
+      "explanation": "‘Might’ is used to indicate a possible action in the future."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ teach mathematics.",
+      "correctAnswer": "does",
+      "hint": "Use the present simple for third person singular.",
+      "explanation": "‘Does’ is used with third person singular subjects in the present simple tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ pack our bags.",
+      "correctAnswer": "should",
+      "hint": "Use a modal verb to express advice.",
+      "explanation": "‘Should’ expresses suggestion or advice for an action."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ clean his room.",
+      "correctAnswer": "must",
+      "hint": "Use a modal verb to express necessity or obligation.",
+      "explanation": "‘Must’ is used to show strong necessity or obligation."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ climb that mountain.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb to express ability.",
+      "explanation": "‘Can’ is used to express ability to do something."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She ___ work in a hospital.",
+      "correctAnswer": "does",
+      "hint": "Use present simple third person singular.",
+      "explanation": "In present simple tense, use 'does' with third person singular subjects."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We ___ reserve a table.",
+      "correctAnswer": "could",
+      "hint": "Use a modal verb to suggest a possible action.",
+      "explanation": "‘Could’ is used for polite suggestions or possibilities."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He ___ lost his passport.",
+      "correctAnswer": "has",
+      "hint": "Use present perfect tense.",
+      "explanation": "‘Has’ is the auxiliary verb used with ‘lost’ in the present perfect tense for third person singular."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ___ run five kilometers.",
+      "correctAnswer": "can",
+      "hint": "Use a modal verb for expressing ability.",
+      "explanation": "‘Can’ expresses physical ability in the present tense."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The clock ___ stopped working.",
+      "correctAnswer": "has",
+      "hint": "Use the present perfect tense auxiliary.",
+      "explanation": "‘Has’ is used with ‘stopped’ to form the present perfect tense for singular subjects."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "general",
+      "tags": ["grammar", "fill-in-the-blank", "A2"],
+      "type": "fill-in-blanks"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  }
+]

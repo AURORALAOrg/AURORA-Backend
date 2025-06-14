@@ -1,0 +1,2902 @@
+[
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I have a dog.",
+      "wrongAnswers": [
+        "I has a dog.",
+        "I am have a dog.",
+        "I having dog."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What color is the sun?",
+      "correctAnswer": "Yellow",
+      "wrongAnswers": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is an animal?",
+      "correctAnswer": "Cat",
+      "wrongAnswers": [
+        "Table",
+        "Book",
+        "Pencil"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you say \"hello\" in English?",
+      "correctAnswer": "Hello",
+      "wrongAnswers": [
+        "Adiós",
+        "Bonjour",
+        "Ciao"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which word is a fruit?",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Car",
+        "Shoe",
+        "Water"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you drink from?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Bed",
+        "Chair",
+        "Shoe"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She goes to school.",
+      "wrongAnswers": [
+        "She go to school.",
+        "She going to school.",
+        "She is go to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🪑]",
+      "correctAnswer": "Chair",
+      "wrongAnswers": [
+        "Dog",
+        "Car",
+        "Book"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"happy\"?",
+      "correctAnswer": "Happy",
+      "wrongAnswers": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What comes after Monday?",
+      "correctAnswer": "Tuesday",
+      "wrongAnswers": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a number?",
+      "correctAnswer": "Five",
+      "wrongAnswers": [
+        "Cat",
+        "Run",
+        "Jump"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you spell 🐱?",
+      "correctAnswer": "C-A-T",
+      "wrongAnswers": [
+        "D-O-G",
+        "B-I-R-D",
+        "F-I-S-H"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I am student.",
+      "wrongAnswers": [
+        "I is student.",
+        "I are student.",
+        "I be student."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you wear on your feet?",
+      "correctAnswer": "Shoes",
+      "wrongAnswers": [
+        "Hat",
+        "Shirt",
+        "Gloves"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is red? [🍎]",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Banana",
+        "Grape",
+        "Orange"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What time is it? [🕒]",
+      "correctAnswer": "Three o'clock",
+      "wrongAnswers": [
+        "Two o'clock",
+        "Four o'clock",
+        "Five o'clock"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is big? [🐘]",
+      "correctAnswer": "Elephant",
+      "wrongAnswers": [
+        "Mouse",
+        "Ant",
+        "Bird"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How many legs? [🪑]",
+      "correctAnswer": "Four",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is cold? [❄️]",
+      "correctAnswer": "Ice",
+      "wrongAnswers": [
+        "Fire",
+        "Sun",
+        "Coffee"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you do with a book?",
+      "correctAnswer": "Read",
+      "wrongAnswers": [
+        "Eat",
+        "Drink",
+        "Run"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I have a dog.",
+      "wrongAnswers": [
+        "I has a dog.",
+        "I am have a dog.",
+        "I having dog."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What color is the sun?",
+      "correctAnswer": "Yellow",
+      "wrongAnswers": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is an animal?",
+      "correctAnswer": "Cat",
+      "wrongAnswers": [
+        "Table",
+        "Book",
+        "Pencil"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you say \"hello\" in English?",
+      "correctAnswer": "Hello",
+      "wrongAnswers": [
+        "Adiós",
+        "Bonjour",
+        "Ciao"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which word is a fruit?",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Car",
+        "Shoe",
+        "Water"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you drink from?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Bed",
+        "Chair",
+        "Shoe"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She goes to school.",
+      "wrongAnswers": [
+        "She go to school.",
+        "She going to school.",
+        "She is go to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🪑]",
+      "correctAnswer": "Chair",
+      "wrongAnswers": [
+        "Dog",
+        "Car",
+        "Book"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"happy\"?",
+      "correctAnswer": "Happy",
+      "wrongAnswers": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What comes after Monday?",
+      "correctAnswer": "Tuesday",
+      "wrongAnswers": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a number?",
+      "correctAnswer": "Five",
+      "wrongAnswers": [
+        "Cat",
+        "Run",
+        "Jump"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you spell 🐱?",
+      "correctAnswer": "C-A-T",
+      "wrongAnswers": [
+        "D-O-G",
+        "B-I-R-D",
+        "F-I-S-H"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I am student.",
+      "wrongAnswers": [
+        "I is student.",
+        "I are student.",
+        "I be student."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you wear on your feet?",
+      "correctAnswer": "Shoes",
+      "wrongAnswers": [
+        "Hat",
+        "Shirt",
+        "Gloves"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is red? [🍎]",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Banana",
+        "Grape",
+        "Orange"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What time is it? [🕒]",
+      "correctAnswer": "Three o'clock",
+      "wrongAnswers": [
+        "Two o'clock",
+        "Four o'clock",
+        "Five o'clock"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is big? [🐘]",
+      "correctAnswer": "Elephant",
+      "wrongAnswers": [
+        "Mouse",
+        "Ant",
+        "Bird"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How many legs? [🪑]",
+      "correctAnswer": "Four",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is cold? [❄️]",
+      "correctAnswer": "Ice",
+      "wrongAnswers": [
+        "Fire",
+        "Sun",
+        "Coffee"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you do with a book?",
+      "correctAnswer": "Read",
+      "wrongAnswers": [
+        "Eat",
+        "Drink",
+        "Run"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I have a dog.",
+      "wrongAnswers": [
+        "I has a dog.",
+        "I am have a dog.",
+        "I having dog."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What color is the sun?",
+      "correctAnswer": "Yellow",
+      "wrongAnswers": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is an animal?",
+      "correctAnswer": "Cat",
+      "wrongAnswers": [
+        "Table",
+        "Book",
+        "Pencil"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you say \"hello\" in English?",
+      "correctAnswer": "Hello",
+      "wrongAnswers": [
+        "Adiós",
+        "Bonjour",
+        "Ciao"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which word is a fruit?",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Car",
+        "Shoe",
+        "Water"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you drink from?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Bed",
+        "Chair",
+        "Shoe"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She goes to school.",
+      "wrongAnswers": [
+        "She go to school.",
+        "She going to school.",
+        "She is go to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🪑]",
+      "correctAnswer": "Chair",
+      "wrongAnswers": [
+        "Dog",
+        "Car",
+        "Book"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"happy\"?",
+      "correctAnswer": "Happy",
+      "wrongAnswers": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What comes after Monday?",
+      "correctAnswer": "Tuesday",
+      "wrongAnswers": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a number?",
+      "correctAnswer": "Five",
+      "wrongAnswers": [
+        "Cat",
+        "Run",
+        "Jump"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you spell 🐱?",
+      "correctAnswer": "C-A-T",
+      "wrongAnswers": [
+        "D-O-G",
+        "B-I-R-D",
+        "F-I-S-H"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I am student.",
+      "wrongAnswers": [
+        "I is student.",
+        "I are student.",
+        "I be student."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you wear on your feet?",
+      "correctAnswer": "Shoes",
+      "wrongAnswers": [
+        "Hat",
+        "Shirt",
+        "Gloves"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is red? [🍎]",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Banana",
+        "Grape",
+        "Orange"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What time is it? [🕒]",
+      "correctAnswer": "Three o'clock",
+      "wrongAnswers": [
+        "Two o'clock",
+        "Four o'clock",
+        "Five o'clock"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is big? [🐘]",
+      "correctAnswer": "Elephant",
+      "wrongAnswers": [
+        "Mouse",
+        "Ant",
+        "Bird"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How many legs? [🪑]",
+      "correctAnswer": "Four",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is cold? [❄️]",
+      "correctAnswer": "Ice",
+      "wrongAnswers": [
+        "Fire",
+        "Sun",
+        "Coffee"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you do with a book?",
+      "correctAnswer": "Read",
+      "wrongAnswers": [
+        "Eat",
+        "Drink",
+        "Run"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I have a dog.",
+      "wrongAnswers": [
+        "I has a dog.",
+        "I am have a dog.",
+        "I having dog."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What color is the sun?",
+      "correctAnswer": "Yellow",
+      "wrongAnswers": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is an animal?",
+      "correctAnswer": "Cat",
+      "wrongAnswers": [
+        "Table",
+        "Book",
+        "Pencil"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you say \"hello\" in English?",
+      "correctAnswer": "Hello",
+      "wrongAnswers": [
+        "Adiós",
+        "Bonjour",
+        "Ciao"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which word is a fruit?",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Car",
+        "Shoe",
+        "Water"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you drink from?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Bed",
+        "Chair",
+        "Shoe"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She goes to school.",
+      "wrongAnswers": [
+        "She go to school.",
+        "She going to school.",
+        "She is go to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🪑]",
+      "correctAnswer": "Chair",
+      "wrongAnswers": [
+        "Dog",
+        "Car",
+        "Book"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"happy\"?",
+      "correctAnswer": "Happy",
+      "wrongAnswers": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What comes after Monday?",
+      "correctAnswer": "Tuesday",
+      "wrongAnswers": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a number?",
+      "correctAnswer": "Five",
+      "wrongAnswers": [
+        "Cat",
+        "Run",
+        "Jump"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you spell 🐱?",
+      "correctAnswer": "C-A-T",
+      "wrongAnswers": [
+        "D-O-G",
+        "B-I-R-D",
+        "F-I-S-H"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I am student.",
+      "wrongAnswers": [
+        "I is student.",
+        "I are student.",
+        "I be student."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you wear on your feet?",
+      "correctAnswer": "Shoes",
+      "wrongAnswers": [
+        "Hat",
+        "Shirt",
+        "Gloves"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is red? [🍎]",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Banana",
+        "Grape",
+        "Orange"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What time is it? [🕒]",
+      "correctAnswer": "Three o'clock",
+      "wrongAnswers": [
+        "Two o'clock",
+        "Four o'clock",
+        "Five o'clock"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is big? [🐘]",
+      "correctAnswer": "Elephant",
+      "wrongAnswers": [
+        "Mouse",
+        "Ant",
+        "Bird"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How many legs? [🪑]",
+      "correctAnswer": "Four",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is cold? [❄️]",
+      "correctAnswer": "Ice",
+      "wrongAnswers": [
+        "Fire",
+        "Sun",
+        "Coffee"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you do with a book?",
+      "correctAnswer": "Read",
+      "wrongAnswers": [
+        "Eat",
+        "Drink",
+        "Run"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which sentence is correct?",
+      "correctAnswer": "I have a dog.",
+      "wrongAnswers": [
+        "I has a dog.",
+        "I am have a dog.",
+        "I having dog."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What color is the sun?",
+      "correctAnswer": "Yellow",
+      "wrongAnswers": [
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is an animal?",
+      "correctAnswer": "Cat",
+      "wrongAnswers": [
+        "Table",
+        "Book",
+        "Pencil"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you say \"hello\" in English?",
+      "correctAnswer": "Hello",
+      "wrongAnswers": [
+        "Adiós",
+        "Bonjour",
+        "Ciao"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which word is a fruit?",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Car",
+        "Shoe",
+        "Water"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you drink from?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Bed",
+        "Chair",
+        "Shoe"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "She goes to school.",
+      "wrongAnswers": [
+        "She go to school.",
+        "She going to school.",
+        "She is go to school."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What is this? [🪑]",
+      "correctAnswer": "Chair",
+      "wrongAnswers": [
+        "Dog",
+        "Car",
+        "Book"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which means \"happy\"?",
+      "correctAnswer": "Happy",
+      "wrongAnswers": [
+        "Sad",
+        "Angry",
+        "Tired"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What comes after Monday?",
+      "correctAnswer": "Tuesday",
+      "wrongAnswers": [
+        "Wednesday",
+        "Sunday",
+        "Friday"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is a number?",
+      "correctAnswer": "Five",
+      "wrongAnswers": [
+        "Cat",
+        "Run",
+        "Jump"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How do you spell 🐱?",
+      "correctAnswer": "C-A-T",
+      "wrongAnswers": [
+        "D-O-G",
+        "B-I-R-D",
+        "F-I-S-H"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is correct?",
+      "correctAnswer": "I am student.",
+      "wrongAnswers": [
+        "I is student.",
+        "I are student.",
+        "I be student."
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you wear on your feet?",
+      "correctAnswer": "Shoes",
+      "wrongAnswers": [
+        "Hat",
+        "Shirt",
+        "Gloves"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is red? [🍎]",
+      "correctAnswer": "Apple",
+      "wrongAnswers": [
+        "Banana",
+        "Grape",
+        "Orange"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What time is it? [🕒]",
+      "correctAnswer": "Three o'clock",
+      "wrongAnswers": [
+        "Two o'clock",
+        "Four o'clock",
+        "Five o'clock"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is big? [🐘]",
+      "correctAnswer": "Elephant",
+      "wrongAnswers": [
+        "Mouse",
+        "Ant",
+        "Bird"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "How many legs? [🪑]",
+      "correctAnswer": "Four",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "Which is cold? [❄️]",
+      "correctAnswer": "Ice",
+      "wrongAnswers": [
+        "Fire",
+        "Sun",
+        "Coffee"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  },
+  {
+    "content": {
+      "question": "What do you do with a book?",
+      "correctAnswer": "Read",
+      "wrongAnswers": [
+        "Eat",
+        "Drink",
+        "Run"
+      ],
+      "explanation": "This is the correct answer based on basic grammar or vocabulary knowledge."
+    },
+    "metadata": {
+      "englishLevel": "A1",
+      "difficulty": "easy",
+      "category": "grammar",
+      "subCategory": "basics",
+      "tags": [
+        "grammar",
+        "vocabulary",
+        "beginner"
+      ],
+      "type": "multiple-choice"
+    },
+    "gameMetadata": {
+      "pointsValue": 10,
+      "timeLimit": 30,
+      "difficultyMultiplier": 1.0
+    }
+  }
+]

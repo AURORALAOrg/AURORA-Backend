@@ -78,18 +78,17 @@ function getStructureError(type: QuestionType, field: string): string {
 function validateQuestion(questionData: any): void {
   const { content, metadata, gameMetadata } = questionData;
 
-  if (!content || !metadata || !gameMetadata) {
-    throw new Error(`Missing required fields. Required structure:\n${JSON.stringify({
-      content: 'object (required)',
-      metadata: 'object (required)',
-      gameMetadata: 'object (required)'
-    }, null, 2)}`);
-  }
+  // Check for missing required fields
+  if (!content) throw new Error('Missing required field: content');
+  if (!metadata) throw new Error('Missing required field: metadata');
+  if (!gameMetadata) throw new Error('Missing required field: gameMetadata');
 
+  // Validate question type
   if (!allowedQuestionTypes.includes(metadata.type)) {
     throw new Error(`Invalid question type: ${metadata.type}. Allowed types: ${allowedQuestionTypes.join(', ')}`);
   }
 
+  // Validate English level
   if (!allowedEnglishLevels.includes(metadata.englishLevel)) {
     throw new Error(`Invalid English level: ${metadata.englishLevel}. Allowed levels: ${allowedEnglishLevels.join(', ')}`);
   }
@@ -97,34 +96,46 @@ function validateQuestion(questionData: any): void {
   // Validate content based on question type
   switch (metadata.type) {
     case 'multiple-choice':
-      if (!content.question || !content.correctAnswer || !Array.isArray(content.wrongAnswers) || content.wrongAnswers.length < 2) {
-        throw new Error(`Invalid multiple choice question structure.${getStructureError('multiple-choice', 'content')}`);
-      }
+      if (!content.question) throw new Error('Missing required field: content.question');
+      if (!content.correctAnswer) throw new Error('Missing required field: content.correctAnswer');
+      if (!Array.isArray(content.wrongAnswers)) throw new Error('content.wrongAnswers must be an array');
+      if (content.wrongAnswers.length < 2) throw new Error('content.wrongAnswers must have at least 2 items');
+      if (!content.explanation) throw new Error('Missing required field: content.explanation');
       break;
+
     case 'sentence-builder':
-      if (!content.sentence || !Array.isArray(content.words) || content.words.length < 3) {
-        throw new Error(`Invalid sentence builder question structure.${getStructureError('sentence-builder', 'content')}`);
-      }
+      if (!content.sentence) throw new Error('Missing required field: content.sentence');
+      if (!Array.isArray(content.words)) throw new Error('content.words must be an array');
+      if (content.words.length < 3) throw new Error('content.words must have at least 3 items');
+      if (!content.explanation) throw new Error('Missing required field: content.explanation');
       break;
+
     case 'fill-in-blanks':
-      if (!content.sentence || !content.correctAnswer) {
-        throw new Error(`Invalid fill in blanks question structure.${getStructureError('fill-in-blanks', 'content')}`);
-      }
+      if (!content.sentence) throw new Error('Missing required field: content.sentence');
+      if (!content.correctAnswer) throw new Error('Missing required field: content.correctAnswer');
+      if (!content.explanation) throw new Error('Missing required field: content.explanation');
       break;
+
     case 'idiom-challenge':
-      if (!content.idiom || !content.sentence || !Array.isArray(content.options) ||
-        content.options.length < 2 || typeof content.correct !== 'number' ||
-        !Array.isArray(content.tips)) {
-        throw new Error(`Invalid idiom challenge question structure.${getStructureError('idiom-challenge', 'content')}`);
-      }
+      if (!content.idiom) throw new Error('Missing required field: content.idiom');
+      if (!content.sentence) throw new Error('Missing required field: content.sentence');
+      if (!Array.isArray(content.options)) throw new Error('content.options must be an array');
+      if (content.options.length < 2) throw new Error('content.options must have at least 2 items');
+      if (typeof content.correct !== 'number') throw new Error('content.correct must be a number');
+      if (!Array.isArray(content.tips)) throw new Error('content.tips must be an array');
+      if (!content.explanation) throw new Error('Missing required field: content.explanation');
       break;
   }
 
   // Validate game metadata
-  if (typeof gameMetadata.pointsValue !== 'number' ||
-    typeof gameMetadata.timeLimit !== 'number' ||
-    typeof gameMetadata.difficultyMultiplier !== 'number') {
-    throw new Error(`Invalid game metadata structure.${getStructureError(metadata.type, 'gameMetadata')}`);
+  if (typeof gameMetadata.pointsValue !== 'number') {
+    throw new Error('gameMetadata.pointsValue must be a number');
+  }
+  if (typeof gameMetadata.timeLimit !== 'number') {
+    throw new Error('gameMetadata.timeLimit must be a number');
+  }
+  if (typeof gameMetadata.difficultyMultiplier !== 'number') {
+    throw new Error('gameMetadata.difficultyMultiplier must be a number');
   }
 }
 
@@ -214,8 +225,9 @@ async function importQuestions(filePath: string, createdBy: string): Promise<Imp
       }
     } catch (error: any) {
       results.failed++;
-      results.errors.push(`Question ${index + 1}: ${error.message || 'Unknown error'}`);
-      console.error(`Error processing question ${index + 1}:`, error.message || 'Unknown error');
+      const errorMessage = `Question ${index + 1}: ${error.message}`;
+      results.errors.push(errorMessage);
+      console.error(errorMessage);
     }
   }
 

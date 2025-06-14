@@ -20,7 +20,7 @@ npm run import:questions import <file_path> <createdBy>
 Example:
 
 ```bash
-npm run import:questions import multiple_choice.json a0eb7160-0fd1-4017-b5de-dec2dfe68a15
+npm run import:questions import multiple_choice/a1.json a0eb7160-0fd1-4017-b5de-dec2dfe68a15
 ```
 
 ### File Formats
@@ -78,10 +78,10 @@ npm run import:questions delete multiple-choice A1
 
 The directory includes sample question files for each type:
 
-- `multiple_choice.json`
-- `sentence_builder.json`
-- `fill_in_blanks.json`
-- `idiom_challenge.json`
+- `multiple_choice`
+- `sentence_ordering`
+- `fill_in_blanks`
+- `idiom_challenge`
 
 Use these as templates for creating your own question files.
 

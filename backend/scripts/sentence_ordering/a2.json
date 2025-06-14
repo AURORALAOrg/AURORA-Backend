@@ -1,0 +1,2002 @@
+[
+  {
+    "content": {
+      "sentence": "Yesterday I visited the museum.",
+      "words": ["Yesterday", "I", "visited", "the", "museum"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She is drinking coffee now.",
+      "words": ["She", "is", "drinking", "coffee", "now"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We will travel to Paris next month.",
+      "words": ["We", "will", "travel", "to", "Paris", "next", "month"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They were playing when it rained.",
+      "words": ["They", "were", "playing", "when", "it", "rained"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He lost his keys yesterday.",
+      "words": ["He", "lost", "his", "keys", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have never seen the ocean.",
+      "words": ["I", "have", "never", "seen", "the", "ocean"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She is better at math than me.",
+      "words": ["She", "is", "better", "at", "math", "than", "me"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We might go to the beach tomorrow.",
+      "words": ["We", "might", "go", "to", "the", "beach", "tomorrow"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He can play the piano well.",
+      "words": ["He", "can", "play", "the", "piano", "well"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have just finished my homework.",
+      "words": ["I", "have", "just", "finished", "my", "homework"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They were cooking dinner when guests arrived.",
+      "words": ["They", "were", "cooking", "dinner", "when", "guests", "arrived"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She went to London last summer.",
+      "words": ["She", "went", "to", "London", "last", "summer"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We often go hiking on weekends.",
+      "words": ["We", "often", "go", "hiking", "on", "weekends"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He will probably be late today.",
+      "words": ["He", "will", "probably", "be", "late", "today"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have already eaten lunch.",
+      "words": ["I", "have", "already", "eaten", "lunch"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They are watching TV right now.",
+      "words": ["They", "are", "watching", "TV", "right", "now"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has been studying for three hours.",
+      "words": ["She", "has", "been", "studying", "for", "three", "hours"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We are planning a trip to Japan.",
+      "words": ["We", "are", "planning", "a", "trip", "to", "Japan"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He speaks French fluently.",
+      "words": ["He", "speaks", "French", "fluently"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I found my wallet under the bed.",
+      "words": ["I", "found", "my", "wallet", "under", "the", "bed"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The sun is setting behind the mountains.",
+      "words": ["The", "sun", "is", "setting", "behind", "the", "mountains"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They are building a new school nearby.",
+      "words": ["They", "are", "building", "a", "new", "school", "nearby"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She draws beautiful landscapes.",
+      "words": ["She", "draws", "beautiful", "landscapes"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We need to decide by tomorrow.",
+      "words": ["We", "need", "to", "decide", "by", "tomorrow"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He was waiting for the bus when I saw him.",
+      "words": ["He", "was", "waiting", "for", "the", "bus", "when", "I", "saw", "him"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I eat vegetables every day.",
+      "words": ["I", "eat", "vegetables", "every", "day"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The baby is sleeping soundly in her crib.",
+      "words": ["The", "baby", "is", "sleeping", "soundly", "in", "her", "crib"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They clean their house every Sunday.",
+      "words": ["They", "clean", "their", "house", "every", "Sunday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has chosen a blue dress for the party.",
+      "words": ["She", "has", "chosen", "a", "blue", "dress", "for", "the", "party"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We helped our neighbors move furniture.",
+      "words": ["We", "helped", "our", "neighbors", "move", "furniture"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He fixed his bicycle last weekend.",
+      "words": ["He", "fixed", "his", "bicycle", "last", "weekend"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I can swim across the lake.",
+      "words": ["I", "can", "swim", "across", "the", "lake"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "Students are taking exams this week.",
+      "words": ["Students", "are", "taking", "exams", "this", "week"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They sold their old car yesterday.",
+      "words": ["They", "sold", "their", "old", "car", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She forgot her umbrella at home.",
+      "words": ["She", "forgot", "her", "umbrella", "at", "home"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We are learning Spanish together.",
+      "words": ["We", "are", "learning", "Spanish", "together"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He doesn't drink coffee anymore.",
+      "words": ["He", "doesn't", "drink", "coffee", "anymore"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I visited my grandparents last weekend.",
+      "words": ["I", "visited", "my", "grandparents", "last", "weekend"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The team is practicing hard for the tournament.",
+      "words": ["The", "team", "is", "practicing", "hard", "for", "the", "tournament"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They buy fresh bread from the bakery daily.",
+      "words": ["They", "buy", "fresh", "bread", "from", "the", "bakery", "daily"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She writes poems in her free time.",
+      "words": ["She", "writes", "poems", "in", "her", "free", "time"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We have seen that movie twice.",
+      "words": ["We", "have", "seen", "that", "movie", "twice"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He drives to work every morning.",
+      "words": ["He", "drives", "to", "work", "every", "morning"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I answered all the questions correctly.",
+      "words": ["I", "answered", "all", "the", "questions", "correctly"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "Birds fly south for the winter.",
+      "words": ["Birds", "fly", "south", "for", "the", "winter"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They will cook dinner tonight.",
+      "words": ["They", "will", "cook", "dinner", "tonight"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She works at the city hospital.",
+      "words": ["She", "works", "at", "the", "city", "hospital"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We must fix the roof soon.",
+      "words": ["We", "must", "fix", "the", "roof", "soon"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He bought a new phone yesterday.",
+      "words": ["He", "bought", "a", "new", "phone", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I completed the puzzle in one hour.",
+      "words": ["I", "completed", "the", "puzzle", "in", "one", "hour"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The river flooded after heavy rains.",
+      "words": ["The", "river", "flooded", "after", "heavy", "rains"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They play chess every Wednesday.",
+      "words": ["They", "play", "chess", "every", "Wednesday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She studies biology at university.",
+      "words": ["She", "studies", "biology", "at", "university"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We reserved a table at the restaurant.",
+      "words": ["We", "reserved", "a", "table", "at", "the", "restaurant"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He lost his glasses at the park.",
+      "words": ["He", "lost", "his", "glasses", "at", "the", "park"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I ran five kilometers this morning.",
+      "words": ["I", "ran", "five", "kilometers", "this", "morning"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The clock stopped working suddenly.",
+      "words": ["The", "clock", "stopped", "working", "suddenly"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They adopted a kitten last month.",
+      "words": ["They", "adopted", "a", "kitten", "last", "month"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She teaches mathematics to children.",
+      "words": ["She", "teaches", "mathematics", "to", "children"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We will pack our bags tonight.",
+      "words": ["We", "will", "pack", "our", "bags", "tonight"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He cleaned the garage yesterday.",
+      "words": ["He", "cleaned", "the", "garage", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I climbed that mountain last summer.",
+      "words": ["I", "climbed", "that", "mountain", "last", "summer"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We often go hiking on weekends.",
+      "words": ["We", "often", "go", "hiking", "on", "weekends"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He will probably be late today.",
+      "words": ["He", "will", "probably", "be", "late", "today"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have already eaten lunch.",
+      "words": ["I", "have", "already", "eaten", "lunch"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They are watching TV right now.",
+      "words": ["They", "are", "watching", "TV", "right", "now"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has been studying for three hours.",
+      "words": ["She", "has", "been", "studying", "for", "three", "hours"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We are planning a trip to Japan.",
+      "words": ["We", "are", "planning", "a", "trip", "to", "Japan"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He speaks French fluently.",
+      "words": ["He", "speaks", "French", "fluently"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I found my wallet under the bed.",
+      "words": ["I", "found", "my", "wallet", "under", "the", "bed"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The sun is setting behind the mountains.",
+      "words": ["The", "sun", "is", "setting", "behind", "the", "mountains"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They are building a new school nearby.",
+      "words": ["They", "are", "building", "a", "new", "school", "nearby"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She draws beautiful landscapes.",
+      "words": ["She", "draws", "beautiful", "landscapes"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We need to decide by tomorrow.",
+      "words": ["We", "need", "to", "decide", "by", "tomorrow"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He was waiting for the bus when I saw him.",
+      "words": ["He", "was", "waiting", "for", "the", "bus", "when", "I", "saw", "him"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I eat vegetables every day.",
+      "words": ["I", "eat", "vegetables", "every", "day"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The baby is sleeping soundly in her crib.",
+      "words": ["The", "baby", "is", "sleeping", "soundly", "in", "her", "crib"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They clean their house every Sunday.",
+      "words": ["They", "clean", "their", "house", "every", "Sunday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has chosen a blue dress for the party.",
+      "words": ["She", "has", "chosen", "a", "blue", "dress", "for", "the", "party"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We helped our neighbors move furniture.",
+      "words": ["We", "helped", "our", "neighbors", "move", "furniture"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He fixed his bicycle last weekend.",
+      "words": ["He", "fixed", "his", "bicycle", "last", "weekend"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I can swim across the lake.",
+      "words": ["I", "can", "swim", "across", "the", "lake"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "Students are taking exams this week.",
+      "words": ["Students", "are", "taking", "exams", "this", "week"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They sold their old car yesterday.",
+      "words": ["They", "sold", "their", "old", "car", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She forgot her umbrella at home.",
+      "words": ["She", "forgot", "her", "umbrella", "at", "home"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We are learning Spanish together.",
+      "words": ["We", "are", "learning", "Spanish", "together"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He doesn't drink coffee anymore.",
+      "words": ["He", "doesn't", "drink", "coffee", "anymore"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I visited my grandparents last weekend.",
+      "words": ["I", "visited", "my", "grandparents", "last", "weekend"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "The team is practicing hard for the tournament.",
+      "words": ["The", "team", "is", "practicing", "hard", "for", "the", "tournament"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They buy fresh bread from the bakery daily.",
+      "words": ["They", "buy", "fresh", "bread", "from", "the", "bakery", "daily"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She writes poems in her free time.",
+      "words": ["She", "writes", "poems", "in", "her", "free", "time"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We have seen that movie twice.",
+      "words": ["We", "have", "seen", "that", "movie", "twice"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He drives to work every morning.",
+      "words": ["He", "drives", "to", "work", "every", "morning"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I answered all the questions correctly.",
+      "words": ["I", "answered", "all", "the", "questions", "correctly"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "Birds fly south for the winter.",
+      "words": ["Birds", "fly", "south", "for", "the", "winter"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "They will cook dinner tonight.",
+      "words": ["They", "will", "cook", "dinner", "tonight"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "She works at the city hospital.",
+      "words": ["She", "works", "at", "the", "city", "hospital"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "We must fix the roof soon.",
+      "words": ["We", "must", "fix", "the", "roof", "soon"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "He bought a new phone yesterday.",
+      "words": ["He", "bought", "a", "new", "phone", "yesterday"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  },
+  {
+    "content": {
+      "sentence": "I completed the puzzle in one hour.",
+      "words": ["I", "completed", "the", "puzzle", "in", "one", "hour"],
+      "explanation": "This sentence demonstrates basic various (past, present continuous, modals) tense and vocabulary."
+    },
+    "metadata": {
+      "englishLevel": "A2",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed tenses",
+      "tags": ["grammar", "tenses", "vocabulary"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 15,
+      "timeLimit": 35,
+      "difficultyMultiplier": 1.2
+    }
+  }
+]

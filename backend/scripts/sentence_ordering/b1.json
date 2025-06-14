@@ -1,0 +1,2002 @@
+[
+  {
+    "content": {
+      "sentence": "By next year, I will have graduated",
+      "words": ["By", "next", "year", "I", "will", "have", "graduated"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If it rains",
+      "words": ["If", "it", "rains"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has been living here since 2018.",
+      "words": ["She", "has", "been", "living", "here", "since", "2018"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The project must be completed by Friday.",
+      "words": ["The", "project", "must", "be", "completed", "by", "Friday"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have known each other for years.",
+      "words": ["They", "have", "known", "each", "other", "for", "years"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He wishes he had more free time.",
+      "words": ["He", "wishes", "he", "had", "more", "free", "time"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By the time we arrived, the show had started",
+      "words": ["By", "the", "time", "we", "arrived", "the", "show", "had", "started"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have never seen such a beautiful sunset.",
+      "words": ["I", "have", "never", "seen", "such", "a", "beautiful", "sunset"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She should be working late tonight.",
+      "words": ["She", "should", "be", "working", "late", "tonight"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The bridge was constructed last year.",
+      "words": ["The", "bridge", "was", "constructed", "last", "year"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If I were you",
+      "words": ["If", "I", "were", "you"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They were discussing politics when I entered.",
+      "words": ["They", "were", "discussing", "politics", "when", "I", "entered"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "This time tomorrow",
+      "words": ["This", "time", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The book has been translated into 30 languages.",
+      "words": ["The", "book", "has", "been", "translated", "into", "30", "languages"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We were having dinner when the lights went out.",
+      "words": ["We", "were", "having", "dinner", "when", "the", "lights", "went", "out"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He will have made his decision by tomorrow.",
+      "words": ["He", "will", "have", "made", "his", "decision", "by", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The solution hasn't been found yet.",
+      "words": ["The", "solution", "hasn't", "been", "found", "yet"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She could have studied more for the exam.",
+      "words": ["She", "could", "have", "studied", "more", "for", "the", "exam"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By 2030",
+      "words": ["By", "2030"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I would rather you didn't smoke here.",
+      "words": ["I", "would", "rather", "you", "didn't", "smoke", "here"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The documents were destroyed in the fire.",
+      "words": ["The", "documents", "were", "destroyed", "in", "the", "fire"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have been hiking for three hours.",
+      "words": ["They", "have", "been", "hiking", "for", "three", "hours"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She has been living alone since graduating.",
+      "words": ["She", "has", "been", "living", "alone", "since", "graduating"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If she had left earlier",
+      "words": ["If", "she", "had", "left", "earlier"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The software is updated regularly.",
+      "words": ["The", "software", "is", "updated", "regularly"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We changed our plans due to bad weather.",
+      "words": ["We", "changed", "our", "plans", "due", "to", "bad", "weather"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He might be sleeping right now.",
+      "words": ["He", "might", "be", "sleeping", "right", "now"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I will have finished the report by 6 PM.",
+      "words": ["I", "will", "have", "finished", "the", "report", "by", "6", "PM"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The cake had been eaten before the party started.",
+      "words": ["The", "cake", "had", "been", "eaten", "before", "the", "party", "started"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They decided to move abroad next year.",
+      "words": ["They", "decided", "to", "move", "abroad", "next", "year"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She might have left her glasses somewhere.",
+      "words": ["She", "might", "have", "left", "her", "glasses", "somewhere"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We need to adapt to the new regulations.",
+      "words": ["We", "need", "to", "adapt", "to", "the", "new", "regulations"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He may not have received the message.",
+      "words": ["He", "may", "not", "have", "received", "the", "message"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The museum is visited by thousands annually.",
+      "words": ["The", "museum", "is", "visited", "by", "thousands", "annually"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have been working here since 2015.",
+      "words": ["I", "have", "been", "working", "here", "since", "2015"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If we had arrived earlier",
+      "words": ["If", "we", "had", "arrived", "earlier"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They will be getting married next spring.",
+      "words": ["They", "will", "be", "getting", "married", "next", "spring"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She must be the new manager by now.",
+      "words": ["She", "must", "be", "the", "new", "manager", "by", "now"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We left our luggage at the airport.",
+      "words": ["We", "left", "our", "luggage", "at", "the", "airport"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He must have forgotten our anniversary.",
+      "words": ["He", "must", "have", "forgotten", "our", "anniversary"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The decision will be announced tomorrow.",
+      "words": ["The", "decision", "will", "be", "announced", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I wish I knew the answer to that question.",
+      "words": ["I", "wish", "I", "knew", "the", "answer", "to", "that", "question"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By sunset",
+      "words": ["By", "sunset"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The letter was delivered yesterday afternoon.",
+      "words": ["The", "letter", "was", "delivered", "yesterday", "afternoon"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have known each other since childhood.",
+      "words": ["They", "have", "known", "each", "other", "since", "childhood"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She should have seen the warning sign.",
+      "words": ["She", "should", "have", "seen", "the", "warning", "sign"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We had to postpone the meeting.",
+      "words": ["We", "had", "to", "postpone", "the", "meeting"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He could be exercising at the gym.",
+      "words": ["He", "could", "be", "exercising", "at", "the", "gym"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have completed the training course.",
+      "words": ["I", "have", "completed", "the", "training", "course"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The problem was solved quite easily.",
+      "words": ["The", "problem", "was", "solved", "quite", "easily"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They were painting the house all day yesterday.",
+      "words": ["They", "were", "painting", "the", "house", "all", "day", "yesterday"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She will be staying in Tokyo next month.",
+      "words": ["She", "will", "be", "staying", "in", "Tokyo", "next", "month"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We weren't expecting any visitors today.",
+      "words": ["We", "weren't", "expecting", "any", "visitors", "today"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He must have left his phone at home.",
+      "words": ["He", "must", "have", "left", "his", "phone", "at", "home"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The concert was sold out within hours.",
+      "words": ["The", "concert", "was", "sold", "out", "within", "hours"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I am currently learning German online.",
+      "words": ["I", "am", "currently", "learning", "German", "online"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If he practiced harder",
+      "words": ["If", "he", "practiced", "harder"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The law was changed recently.",
+      "words": ["The", "law", "was", "changed", "recently"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have been traveling for months.",
+      "words": ["They", "have", "been", "traveling", "for", "months"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She will be attending the conference next week.",
+      "words": ["She", "will", "be", "attending", "the", "conference", "next", "week"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We have finally found the missing document.",
+      "words": ["We", "have", "finally", "found", "the", "missing", "document"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He couldn't have meant any offense.",
+      "words": ["He", "couldn't", "have", "meant", "any", "offense"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The car is being repaired right now.",
+      "words": ["The", "car", "is", "being", "repaired", "right", "now"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have visited Japan twice already.",
+      "words": ["I", "have", "visited", "Japan", "twice", "already"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The project must be completed by Friday.",
+      "words": ["The", "project", "must", "be", "completed", "by", "Friday"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have known each other for years.",
+      "words": ["They", "have", "known", "each", "other", "for", "years"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He wishes he had more free time.",
+      "words": ["He", "wishes", "he", "had", "more", "free", "time"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By the time we arrived, the show had started",
+      "words": ["By", "the", "time", "we", "arrived", "the", "show", "had", "started"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have never seen such a beautiful sunset.",
+      "words": ["I", "have", "never", "seen", "such", "a", "beautiful", "sunset"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She should be working late tonight.",
+      "words": ["She", "should", "be", "working", "late", "tonight"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The bridge was constructed last year.",
+      "words": ["The", "bridge", "was", "constructed", "last", "year"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If I were you",
+      "words": ["If", "I", "were", "you"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They were discussing politics when I entered.",
+      "words": ["They", "were", "discussing", "politics", "when", "I", "entered"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "This time tomorrow",
+      "words": ["This", "time", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The book has been translated into 30 languages.",
+      "words": ["The", "book", "has", "been", "translated", "into", "30", "languages"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We were having dinner when the lights went out.",
+      "words": ["We", "were", "having", "dinner", "when", "the", "lights", "went", "out"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By December",
+      "words": ["By", "December"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The message was completely misunderstood.",
+      "words": ["The", "message", "was", "completely", "misunderstood"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They should have known about the problem.",
+      "words": ["They", "should", "have", "known", "about", "the", "problem"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She might have completed the assignment.",
+      "words": ["She", "might", "have", "completed", "the", "assignment"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We are still adapting to the changes.",
+      "words": ["We", "are", "still", "adapting", "to", "the", "changes"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He should be giving his presentation now.",
+      "words": ["He", "should", "be", "giving", "his", "presentation", "now"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I wish you were here with me.",
+      "words": ["I", "wish", "you", "were", "here", "with", "me"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The team has been training since morning.",
+      "words": ["The", "team", "has", "been", "training", "since", "morning"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They elected a new leader last week.",
+      "words": ["They", "elected", "a", "new", "leader", "last", "week"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She will be working remotely tomorrow.",
+      "words": ["She", "will", "be", "working", "remotely", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We have decided against buying that house.",
+      "words": ["We", "have", "decided", "against", "buying", "that", "house"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He might have been delayed by traffic.",
+      "words": ["He", "might", "have", "been", "delayed", "by", "traffic"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The data is being analyzed carefully.",
+      "words": ["The", "data", "is", "being", "analyzed", "carefully"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I was studying all afternoon yesterday.",
+      "words": ["I", "was", "studying", "all", "afternoon", "yesterday"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "If we had more time",
+      "words": ["If", "we", "had", "more", "time"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The system will be upgraded next week.",
+      "words": ["The", "system", "will", "be", "upgraded", "next", "week"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "They have been dating for two years.",
+      "words": ["They", "have", "been", "dating", "for", "two", "years"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "She will be flying to New York tomorrow.",
+      "words": ["She", "will", "be", "flying", "to", "New", "York", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "We got lost in the forest yesterday.",
+      "words": ["We", "got", "lost", "in", "the", "forest", "yesterday"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "He couldn't have heard the alarm.",
+      "words": ["He", "couldn't", "have", "heard", "the", "alarm"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The novel was written in the 1990s.",
+      "words": ["The", "novel", "was", "written", "in", "the", "1990s"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "I have lived here for five years.",
+      "words": ["I", "have", "lived", "here", "for", "five", "years"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "By tomorrow",
+      "words": ["By", "tomorrow"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  },
+  {
+    "content": {
+      "sentence": "The mistake was corrected immediately.",
+      "words": ["The", "mistake", "was", "corrected", "immediately"],
+      "explanation": "This sentence demonstrates a range of intermediate grammar including modals, conditionals, or passive voice."
+    },
+    "metadata": {
+      "englishLevel": "B1",
+      "difficulty": "medium",
+      "category": "sentence structure",
+      "subCategory": "mixed intermediate structures",
+      "tags": ["grammar", "modals", "passive", "conditionals"],
+      "type": "sentence-builder"
+    },
+    "gameMetadata": {
+      "pointsValue": 25,
+      "timeLimit": 90,
+      "difficultyMultiplier": 1.4
+    }
+  }
+]
